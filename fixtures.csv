@@ -1,0 +1,381 @@
+full.date,home,visitor
+11-Aug-17,Arsenal,Leicester City
+12-Aug-17,Watford,Liverpool
+12-Aug-17,Chelsea,Burnley
+12-Aug-17,Crystal Palace,Huddersfield Town
+12-Aug-17,Everton,Stoke City
+12-Aug-17,Southampton,Swansea City
+12-Aug-17,West Bromwich Albion,AFC Bournemouth
+12-Aug-17,Brighton & Hove Albion,Manchester City
+13-Aug-17,Newcastle United,Tottenham Hotspur
+13-Aug-17,Manchester United,West Ham United
+19-Aug-17,Swansea City,Manchester United
+19-Aug-17,AFC Bournemouth,Watford
+19-Aug-17,Burnley,West Bromwich Albion
+19-Aug-17,Leicester City,Brighton & Hove Albion
+19-Aug-17,Liverpool,Crystal Palace
+19-Aug-17,West Ham United,Southampton
+19-Aug-17,Stoke City,Arsenal
+20-Aug-17,Huddersfield Town,Newcastle United
+20-Aug-17,Tottenham Hotspur,Chelsea
+21-Aug-17,Manchester City,Everton
+26-Aug-17,AFC Bournemouth,Manchester City
+26-Aug-17,Chelsea,Everton
+26-Aug-17,Crystal Palace,Swansea City
+26-Aug-17,Huddersfield Town,Southampton
+26-Aug-17,Newcastle United,West Ham United
+26-Aug-17,Tottenham Hotspur,Burnley
+26-Aug-17,Watford,Brighton & Hove Albion
+26-Aug-17,Manchester United,Leicester City
+27-Aug-17,West Bromwich Albion,Stoke City
+27-Aug-17,Liverpool,Arsenal
+9-Sep-17,Manchester City,Liverpool
+9-Sep-17,Arsenal,AFC Bournemouth
+9-Sep-17,Brighton & Hove Albion,West Bromwich Albion
+9-Sep-17,Everton,Tottenham Hotspur
+9-Sep-17,Leicester City,Chelsea
+9-Sep-17,Southampton,Watford
+9-Sep-17,Stoke City,Manchester United
+10-Sep-17,Burnley,Crystal Palace
+10-Sep-17,Swansea City,Newcastle United
+11-Sep-17,West Ham United,Huddersfield Town
+15-Sep-17,AFC Bournemouth,Brighton & Hove Albion
+16-Sep-17,Crystal Palace,Southampton
+16-Sep-17,Huddersfield Town,Leicester City
+16-Sep-17,Liverpool,Burnley
+16-Sep-17,Newcastle United,Stoke City
+16-Sep-17,Watford,Manchester City
+16-Sep-17,West Bromwich Albion,West Ham United
+16-Sep-17,Tottenham Hotspur,Swansea City
+17-Sep-17,Chelsea,Arsenal
+17-Sep-17,Manchester United,Everton
+23-Sep-17,West Ham United,Tottenham Hotspur
+23-Sep-17,Burnley,Huddersfield Town
+23-Sep-17,Everton,AFC Bournemouth
+23-Sep-17,Manchester City,Crystal Palace
+23-Sep-17,Southampton,Manchester United
+23-Sep-17,Stoke City,Chelsea
+23-Sep-17,Swansea City,Watford
+23-Sep-17,Leicester City,Liverpool
+24-Sep-17,Brighton & Hove Albion,Newcastle United
+25-Sep-17,Arsenal,West Bromwich Albion
+30-Sep-17,Huddersfield Town,Tottenham Hotspur
+30-Sep-17,AFC Bournemouth,Leicester City
+30-Sep-17,Manchester United,Crystal Palace
+30-Sep-17,Stoke City,Southampton
+30-Sep-17,West Bromwich Albion,Watford
+30-Sep-17,West Ham United,Swansea City
+30-Sep-17,Chelsea,Manchester City
+1-Oct-17,Arsenal,Brighton & Hove Albion
+1-Oct-17,Everton,Burnley
+1-Oct-17,Newcastle United,Liverpool
+14-Oct-17,Brighton & Hove Albion,Everton
+14-Oct-17,Burnley,West Ham United
+14-Oct-17,Crystal Palace,Chelsea
+14-Oct-17,Leicester City,West Bromwich Albion
+14-Oct-17,Liverpool,Manchester United
+14-Oct-17,Manchester City,Stoke City
+14-Oct-17,Southampton,Newcastle United
+14-Oct-17,Swansea City,Huddersfield Town
+14-Oct-17,Tottenham Hotspur,AFC Bournemouth
+14-Oct-17,Watford,Arsenal
+21-Oct-17,Chelsea,Watford
+21-Oct-17,Everton,Arsenal
+21-Oct-17,Huddersfield Town,Manchester United
+21-Oct-17,Manchester City,Burnley
+21-Oct-17,Newcastle United,Crystal Palace
+21-Oct-17,Southampton,West Bromwich Albion
+21-Oct-17,Stoke City,AFC Bournemouth
+21-Oct-17,Swansea City,Leicester City
+21-Oct-17,Tottenham Hotspur,Liverpool
+21-Oct-17,West Ham United,Brighton & Hove Albion
+28-Oct-17,Arsenal,Swansea City
+28-Oct-17,AFC Bournemouth,Chelsea
+28-Oct-17,Brighton & Hove Albion,Southampton
+28-Oct-17,Burnley,Newcastle United
+28-Oct-17,Crystal Palace,West Ham United
+28-Oct-17,Leicester City,Everton
+28-Oct-17,Liverpool,Huddersfield Town
+28-Oct-17,Manchester United,Tottenham Hotspur
+28-Oct-17,Watford,Stoke City
+28-Oct-17,West Bromwich Albion,Manchester City
+4-Nov-17,Chelsea,Manchester United
+4-Nov-17,Everton,Watford
+4-Nov-17,Huddersfield Town,West Bromwich Albion
+4-Nov-17,Manchester City,Arsenal
+4-Nov-17,Newcastle United,AFC Bournemouth
+4-Nov-17,Southampton,Burnley
+4-Nov-17,Stoke City,Leicester City
+4-Nov-17,Swansea City,Brighton & Hove Albion
+4-Nov-17,Tottenham Hotspur,Crystal Palace
+4-Nov-17,West Ham United,Liverpool
+18-Nov-17,Arsenal,Tottenham Hotspur
+18-Nov-17,AFC Bournemouth,Huddersfield Town
+18-Nov-17,Brighton & Hove Albion,Stoke City
+18-Nov-17,Burnley,Swansea City
+18-Nov-17,Crystal Palace,Everton
+18-Nov-17,Leicester City,Manchester City
+18-Nov-17,Liverpool,Southampton
+18-Nov-17,Manchester United,Newcastle United
+18-Nov-17,Watford,West Ham United
+18-Nov-17,West Bromwich Albion,Chelsea
+25-Nov-17,Burnley,Arsenal
+25-Nov-17,Crystal Palace,Stoke City
+25-Nov-17,Huddersfield Town,Manchester City
+25-Nov-17,Liverpool,Chelsea
+25-Nov-17,Manchester United,Brighton & Hove Albion
+25-Nov-17,Newcastle United,Watford
+25-Nov-17,Southampton,Everton
+25-Nov-17,Swansea City,AFC Bournemouth
+25-Nov-17,Tottenham Hotspur,West Bromwich Albion
+25-Nov-17,West Ham United,Leicester City
+28-Nov-17,Arsenal,Huddersfield Town
+28-Nov-17,AFC Bournemouth,Burnley
+28-Nov-17,Brighton & Hove Albion,Crystal Palace
+28-Nov-17,Leicester City,Tottenham Hotspur
+28-Nov-17,Watford,Manchester United
+28-Nov-17,West Bromwich Albion,Newcastle United
+29-Nov-17,Chelsea,Swansea City
+29-Nov-17,Everton,West Ham United
+29-Nov-17,Manchester City,Southampton
+29-Nov-17,Stoke City,Liverpool
+2-Dec-17,Arsenal,Manchester United
+2-Dec-17,AFC Bournemouth,Southampton
+2-Dec-17,Brighton & Hove Albion,Liverpool
+2-Dec-17,Chelsea,Newcastle United
+2-Dec-17,Everton,Huddersfield Town
+2-Dec-17,Leicester City,Burnley
+2-Dec-17,Manchester City,West Ham United
+2-Dec-17,Stoke City,Swansea City
+2-Dec-17,Watford,Tottenham Hotspur
+2-Dec-17,West Bromwich Albion,Crystal Palace
+9-Dec-17,Burnley,Watford
+9-Dec-17,Crystal Palace,AFC Bournemouth
+9-Dec-17,Huddersfield Town,Brighton & Hove Albion
+9-Dec-17,Liverpool,Everton
+9-Dec-17,Manchester United,Manchester City
+9-Dec-17,Newcastle United,Leicester City
+9-Dec-17,Southampton,Arsenal
+9-Dec-17,Swansea City,West Bromwich Albion
+9-Dec-17,Tottenham Hotspur,Stoke City
+9-Dec-17,West Ham United,Chelsea
+12-Dec-17,Burnley,Stoke City
+12-Dec-17,Huddersfield Town,Chelsea
+12-Dec-17,Swansea City,Manchester City
+12-Dec-17,West Ham United,Arsenal
+12-Dec-17,Crystal Palace,Watford
+12-Dec-17,Manchester United,AFC Bournemouth
+13-Dec-17,Newcastle United,Everton
+13-Dec-17,Southampton,Leicester City
+13-Dec-17,Liverpool,West Bromwich Albion
+13-Dec-17,Tottenham Hotspur,Brighton & Hove Albion
+16-Dec-17,Arsenal,Newcastle United
+16-Dec-17,AFC Bournemouth,Liverpool
+16-Dec-17,Brighton & Hove Albion,Burnley
+16-Dec-17,Chelsea,Southampton
+16-Dec-17,Everton,Swansea City
+16-Dec-17,Leicester City,Crystal Palace
+16-Dec-17,Manchester City,Tottenham Hotspur
+16-Dec-17,Stoke City,West Ham United
+16-Dec-17,Watford,Huddersfield Town
+16-Dec-17,West Bromwich Albion,Manchester United
+23-Dec-17,Arsenal,Liverpool
+23-Dec-17,Brighton & Hove Albion,Watford
+23-Dec-17,Burnley,Tottenham Hotspur
+23-Dec-17,Everton,Chelsea
+23-Dec-17,Leicester City,Manchester United
+23-Dec-17,Manchester City,AFC Bournemouth
+23-Dec-17,Southampton,Huddersfield Town
+23-Dec-17,Stoke City,West Bromwich Albion
+23-Dec-17,Swansea City,Crystal Palace
+23-Dec-17,West Ham United,Newcastle United
+26-Dec-17,AFC Bournemouth,West Ham United
+26-Dec-17,Chelsea,Brighton & Hove Albion
+26-Dec-17,Crystal Palace,Arsenal
+26-Dec-17,Huddersfield Town,Stoke City
+26-Dec-17,Liverpool,Swansea City
+26-Dec-17,Manchester United,Burnley
+26-Dec-17,Newcastle United,Manchester City
+26-Dec-17,Tottenham Hotspur,Southampton
+26-Dec-17,Watford,Leicester City
+26-Dec-17,West Bromwich Albion,Everton
+30-Dec-17,AFC Bournemouth,Everton
+30-Dec-17,Chelsea,Stoke City
+30-Dec-17,Crystal Palace,Manchester City
+30-Dec-17,Huddersfield Town,Burnley
+30-Dec-17,Liverpool,Leicester City
+30-Dec-17,Manchester United,Southampton
+30-Dec-17,Newcastle United,Brighton & Hove Albion
+30-Dec-17,Tottenham Hotspur,West Ham United
+30-Dec-17,Watford,Swansea City
+30-Dec-17,West Bromwich Albion,Arsenal
+1-Jan-18,Arsenal,Chelsea
+1-Jan-18,Brighton & Hove Albion,AFC Bournemouth
+1-Jan-18,Burnley,Liverpool
+1-Jan-18,Everton,Manchester United
+1-Jan-18,Leicester City,Huddersfield Town
+1-Jan-18,Manchester City,Watford
+1-Jan-18,Southampton,Crystal Palace
+1-Jan-18,Stoke City,Newcastle United
+1-Jan-18,Swansea City,Tottenham Hotspur
+1-Jan-18,West Ham United,West Bromwich Albion
+13-Jan-18,AFC Bournemouth,Arsenal
+13-Jan-18,Chelsea,Leicester City
+13-Jan-18,Crystal Palace,Burnley
+13-Jan-18,Huddersfield Town,West Ham United
+13-Jan-18,Liverpool,Manchester City
+13-Jan-18,Manchester United,Stoke City
+13-Jan-18,Newcastle United,Swansea City
+13-Jan-18,Tottenham Hotspur,Everton
+13-Jan-18,Watford,Southampton
+13-Jan-18,West Bromwich Albion,Brighton & Hove Albion
+20-Jan-18,Arsenal,Crystal Palace
+20-Jan-18,Brighton & Hove Albion,Chelsea
+20-Jan-18,Burnley,Manchester United
+20-Jan-18,Everton,West Bromwich Albion
+20-Jan-18,Leicester City,Watford
+20-Jan-18,Manchester City,Newcastle United
+20-Jan-18,Southampton,Tottenham Hotspur
+20-Jan-18,Stoke City,Huddersfield Town
+20-Jan-18,Swansea City,Liverpool
+20-Jan-18,West Ham United,AFC Bournemouth
+30-Jan-18,Huddersfield Town,Liverpool
+30-Jan-18,Swansea City,Arsenal
+30-Jan-18,West Ham United,Crystal Palace
+31-Jan-18,Chelsea,AFC Bournemouth
+31-Jan-18,Everton,Leicester City
+31-Jan-18,Newcastle United,Burnley
+31-Jan-18,Southampton,Brighton & Hove Albion
+31-Jan-18,Manchester City,West Bromwich Albion
+31-Jan-18,Stoke City,Watford
+31-Jan-18,Tottenham Hotspur,Manchester United
+3-Feb-18,Arsenal,Everton
+3-Feb-18,AFC Bournemouth,Stoke City
+3-Feb-18,Brighton & Hove Albion,West Ham United
+3-Feb-18,Burnley,Manchester City
+3-Feb-18,Crystal Palace,Newcastle United
+3-Feb-18,Leicester City,Swansea City
+3-Feb-18,Liverpool,Tottenham Hotspur
+3-Feb-18,Manchester United,Huddersfield Town
+3-Feb-18,Watford,Chelsea
+3-Feb-18,West Bromwich Albion,Southampton
+10-Feb-18,Chelsea,West Bromwich Albion
+10-Feb-18,Everton,Crystal Palace
+10-Feb-18,Huddersfield Town,AFC Bournemouth
+10-Feb-18,Manchester City,Leicester City
+10-Feb-18,Newcastle United,Manchester United
+10-Feb-18,Southampton,Liverpool
+10-Feb-18,Stoke City,Brighton & Hove Albion
+10-Feb-18,Swansea City,Burnley
+10-Feb-18,Tottenham Hotspur,Arsenal
+10-Feb-18,West Ham United,Watford
+24-Feb-18,Arsenal,Manchester City
+24-Feb-18,AFC Bournemouth,Newcastle United
+24-Feb-18,Brighton & Hove Albion,Swansea City
+24-Feb-18,Burnley,Southampton
+24-Feb-18,Crystal Palace,Tottenham Hotspur
+24-Feb-18,Leicester City,Stoke City
+24-Feb-18,Liverpool,West Ham United
+24-Feb-18,Manchester United,Chelsea
+24-Feb-18,Watford,Everton
+24-Feb-18,West Bromwich Albion,Huddersfield Town
+3-Mar-18,Brighton & Hove Albion,Arsenal
+3-Mar-18,Burnley,Everton
+3-Mar-18,Crystal Palace,Manchester United
+3-Mar-18,Leicester City,AFC Bournemouth
+3-Mar-18,Liverpool,Newcastle United
+3-Mar-18,Manchester City,Chelsea
+3-Mar-18,Southampton,Stoke City
+3-Mar-18,Swansea City,West Ham United
+3-Mar-18,Tottenham Hotspur,Huddersfield Town
+3-Mar-18,Watford,West Bromwich Albion
+10-Mar-18,Arsenal,Watford
+10-Mar-18,AFC Bournemouth,Tottenham Hotspur
+10-Mar-18,Chelsea,Crystal Palace
+10-Mar-18,Everton,Brighton & Hove Albion
+10-Mar-18,Huddersfield Town,Swansea City
+10-Mar-18,Manchester United,Liverpool
+10-Mar-18,Newcastle United,Southampton
+10-Mar-18,Stoke City,Manchester City
+10-Mar-18,West Bromwich Albion,Leicester City
+10-Mar-18,West Ham United,Burnley
+17-Mar-18,AFC Bournemouth,West Bromwich Albion
+17-Mar-18,Burnley,Chelsea
+17-Mar-18,Huddersfield Town,Crystal Palace
+17-Mar-18,Leicester City,Arsenal
+17-Mar-18,Liverpool,Watford
+17-Mar-18,Manchester City,Brighton & Hove Albion
+17-Mar-18,Stoke City,Everton
+17-Mar-18,Swansea City,Southampton
+17-Mar-18,Tottenham Hotspur,Newcastle United
+17-Mar-18,West Ham United,Manchester United
+31-Mar-18,Arsenal,Stoke City
+31-Mar-18,Brighton & Hove Albion,Leicester City
+31-Mar-18,Chelsea,Tottenham Hotspur
+31-Mar-18,Crystal Palace,Liverpool
+31-Mar-18,Everton,Manchester City
+31-Mar-18,Manchester United,Swansea City
+31-Mar-18,Newcastle United,Huddersfield Town
+31-Mar-18,Southampton,West Ham United
+31-Mar-18,Watford,AFC Bournemouth
+31-Mar-18,West Bromwich Albion,Burnley
+7-Apr-18,Arsenal,Southampton
+7-Apr-18,AFC Bournemouth,Crystal Palace
+7-Apr-18,Brighton & Hove Albion,Huddersfield Town
+7-Apr-18,Chelsea,West Ham United
+7-Apr-18,Everton,Liverpool
+7-Apr-18,Leicester City,Newcastle United
+7-Apr-18,Manchester City,Manchester United
+7-Apr-18,Stoke City,Tottenham Hotspur
+7-Apr-18,Watford,Burnley
+7-Apr-18,West Bromwich Albion,Swansea City
+14-Apr-18,Burnley,Leicester City
+14-Apr-18,Crystal Palace,Brighton & Hove Albion
+14-Apr-18,Huddersfield Town,Watford
+14-Apr-18,Liverpool,AFC Bournemouth
+14-Apr-18,Manchester United,West Bromwich Albion
+14-Apr-18,Newcastle United,Arsenal
+14-Apr-18,Southampton,Chelsea
+14-Apr-18,Swansea City,Everton
+14-Apr-18,Tottenham Hotspur,Manchester City
+14-Apr-18,West Ham United,Stoke City
+21-Apr-18,Arsenal,West Ham United
+21-Apr-18,AFC Bournemouth,Manchester United
+21-Apr-18,Brighton & Hove Albion,Tottenham Hotspur
+21-Apr-18,Chelsea,Huddersfield Town
+21-Apr-18,Everton,Newcastle United
+21-Apr-18,Leicester City,Southampton
+21-Apr-18,Manchester City,Swansea City
+21-Apr-18,Stoke City,Burnley
+21-Apr-18,Watford,Crystal Palace
+21-Apr-18,West Bromwich Albion,Liverpool
+28-Apr-18,Burnley,Brighton & Hove Albion
+28-Apr-18,Crystal Palace,Leicester City
+28-Apr-18,Huddersfield Town,Everton
+28-Apr-18,Liverpool,Stoke City
+28-Apr-18,Manchester United,Arsenal
+28-Apr-18,Newcastle United,West Bromwich Albion
+28-Apr-18,Southampton,AFC Bournemouth
+28-Apr-18,Swansea City,Chelsea
+28-Apr-18,Tottenham Hotspur,Watford
+28-Apr-18,West Ham United,Manchester City
+5-May-18,Arsenal,Burnley
+5-May-18,AFC Bournemouth,Swansea City
+5-May-18,Brighton & Hove Albion,Manchester United
+5-May-18,Chelsea,Liverpool
+5-May-18,Everton,Southampton
+5-May-18,Leicester City,West Ham United
+5-May-18,Manchester City,Huddersfield Town
+5-May-18,Stoke City,Crystal Palace
+5-May-18,Watford,Newcastle United
+5-May-18,West Bromwich Albion,Tottenham Hotspur
+13-May-18,Burnley,AFC Bournemouth
+13-May-18,Crystal Palace,West Bromwich Albion
+13-May-18,Huddersfield Town,Arsenal
+13-May-18,Liverpool,Brighton & Hove Albion
+13-May-18,Manchester United,Watford
+13-May-18,Newcastle United,Chelsea
+13-May-18,Southampton,Manchester City
+13-May-18,Swansea City,Stoke City
+13-May-18,Tottenham Hotspur,Leicester City
+13-May-18,West Ham United,Everton
