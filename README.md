@@ -7,3 +7,4 @@ I want to store some of my favorite data sets here.
 + [Ceta Base](http://www.cetabase.org/), Captive Cetacean Database 
 + 2018 EPL Fixtures list
 + U.S. Census Bureau [FactFinder](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t#acsST)
++ Stack Exchange [Data Dump](https://archive.org/details/stackexchange)
