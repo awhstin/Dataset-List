@@ -10,3 +10,4 @@ I want to store some of my favorite data sets here.
 + Stack Exchange [Data Dump](https://archive.org/details/stackexchange)
 + Center for Disease Control - [Wonder Database](https://wonder.cdc.gov/)
   + Mortality Rates, foodborne illness data, etc 
++ SimpleMaps US Cities (Database)[http://simplemaps.com/data/us-cities] 
