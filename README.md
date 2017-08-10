@@ -12,4 +12,4 @@ I want to store some of my favorite data sets here.
   + Mortality Rates, foodborne illness data, etc 
 + SimpleMaps US Cities [Database](http://simplemaps.com/data/us-cities)
 + I created a list of airports and shortcodes from the TSA XML [file](https://www.tsa.gov/data/apcp.xml). The airport csv is in the this repo, and here is a map of some of the airports. \
-![Alt text](https://github.com/awhstin/Dataset-List/blob/master/Rplot.png "Optional Title")
+![Alt text](https://github.com/awhstin/Dataset-List/blob/master/airportsv2.png "Airports by category")
