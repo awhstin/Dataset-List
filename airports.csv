@@ -1,0 +1,492 @@
+"head","Name","Location","Lat","Lon"
+"HSV","Huntsville International","Huntsville, AL",34.6486,-86.7751
+"MOB","Mobile Regional","Mobile, AL",30.6813,-88.2443
+"DHN","Dothan Regional","Dothan, AL",31.3151,-85.4486
+"MGM","Montgomery Regional","Montgomery, AL",32.3054,-86.3909
+"MSL","Muscle Shoals","Muscle Shoals, AL",34.7456,-87.6192
+"BHM","Birmingham-Shuttlesworth International","Birmingham, AL",33.5613,-86.7529
+"ANC","Anchorage International","Anchorage, AK",61.1735,-149.98115
+"FAI","Fairbanks International","Fairbanks, AK",64.8154917,-147.8585528
+"JNU","Juneau International","Juneau, AK",58.3549722,-134.5762778
+"ADK","Adak Naval Air Station","Adak, AK",51.8779639,-176.6460306
+"ADQ","Kodiak State","Kodiak, AK",57.7499678,-152.4938553
+"AKN","King Salmon","King Salmon, AK",58.6764935,-156.648691
+"BET","Bethel","Bethel, AK",60.7797778,-161.838
+"BRW","Wiley Post - Will Rogers Memorial","Barrow, AK",71.2854475,-156.7660019
+"CDV","Merle K. ""Mudhole"" Smith","Cordova, AK",60.4917778,-145.4775556
+"DLG","Dillingham","Dillingham, AK",59.0446667,-158.5055
+"GST","Gustavus","Gustavus, AK",58.4252778,-135.7074167
+"KTN","Ketchikan International","Ketchikan, AK",55.354075,-131.7112194
+"OME","Nome","Nome, AK",64.5122022,-165.4452458
+"OTZ","Ralph Wien Memorial","Kotzebue, AK",66.8846944,-162.5985
+"PSG","Petersburg","Petersburg, AK",56.8016667,-132.9452778
+"SCC","Deadhorse","Prudhoe Bay, AK",70.19475,-148.4651667
+"SIT","Sitka Municipal","Sitka, AK",57.0471389,-135.3616111
+"WRG","Wrangell","Wrangell, AK",56.4843333,-132.3698333
+"YAK","Yakutat","Yakutat, AK",59.5033056,-139.66025
+"ENA","Kenai Municipal","Kenai, AK",60.5730543,-151.2450027
+"HOM","Homer","Homer, AK",59.643565,-151.492502
+"VDZ","Valdez","Valdez, AK",61.133889,-146.248333
+"PHX","Phoenix Sky Harbor International","Phoenix, AZ",33.4347,-112.0094
+"TUS","Tucson International","Tucson, AZ",32.12049,-110.93715
+"FLG","Flagstaff Pulliam","Flagstaff, AZ",35.1403056,-111.66925
+"IFP","Laughlin/Bullhead International","Bullhead City, AZ",35.1559722,-114.5594444
+"IWA","Phoenix-Mesa Gateway","Mesa, AZ",33.3078333,-111.6554722
+"PRC","Prescott Municipal","Prescott, AZ",34.6544444,-112.4196111
+"IGM","Kingman","Kingman, AZ",35.2594722,-113.9380556
+"NYL","Yuma International","Yuma, AZ",32.65639,-114.61285
+"PGA","Page Municipal","Page, AZ",36.9260833,-111.4483611
+"SOW","Show Low Regional","Show Low, AZ",34.2654722,-110.0056667
+"LIT","Bill and Hillary Clinton National","Little Rock, AR",34.72813,-92.22044
+"XNA","Northwest Arkansas Regional","Highfill, AR",36.27547,-94.29716
+"FSM","Fort Smith Regional","Ft Smith, AR",35.34061,-94.35864
+"TXK","Texarkana Regional","Texarkana, AR",33.4564,-93.99417
+"ELD","South Arkansas Regional","El Dorado, AR",33.2209722,-92.8132778
+"HOT","Hot Springs Memorial Field","Hot Springs, AR",34.4780278,-93.0962222
+"HRO","Boone County","Harrison, AR",36.26393,-93.15089
+"JBR","Jonesboro Municipal","Jonesboro, AR",35.8339,-90.6497
+"LAX","Los Angeles International","Los Angeles, CA",33.942452,-118.40801
+"SFO","San Francisco International","San Francisco, CA",37.61498,-122.38971
+"BUR","Burbank Bob Hope Airport","Burbank, CA",34.2006667,-118.3586667
+"LGB","Long Beach Airport","Long Beach, CA",33.8177222,-118.1516111
+"OAK","Oakland International","Oakland, CA",37.7213056,-122.2207222
+"ONT","LA/Ontario International","Ontario, CA",34.056,-117.6011944
+"SAN","San Diego International","San Diego, CA",32.7335556,-117.1896667
+"SJC","San Jose International","San Jose, CA",37.3626667,-121.9291111
+"SMF","Sacramento International","Sacramento, CA",38.6954167,-121.5907778
+"SNA","Orange County John Wayne","Santa Ana, CA",33.6756667,-117.8682222
+"FAT","Fresno Yosemite International","Fresno, CA",36.7761944,-119.7181389
+"PSP","Palm Springs Regional","Palm Springs, CA",33.8296667,-116.5066944
+"SBA","Santa Barbara Municipal","Santa Barbara, CA",34.4261944,-119.8415
+"ACV","Arcata-Eureka","McKinleyville, CA",40.9781111,-124.1086111
+"BFL","Meadows Field, Bakersfield","Bakersfield, CA",35.4338611,-119.0576667
+"MMH","Mammoth Yosemite","Mammoth Lakes, CA",37.62765,-118.843688
+"MRY","Monterey Peninsula","Monterey, CA",36.587,-121.8429444
+"RDD","Redding Municipal","Redding, CA",40.509,-122.2933889
+"SBP","San Luis Obispo County","San Luis Obispo, CA",35.2372659,-120.6425974
+"SCK","Stockton Regional","Stockton, CA",37.8941667,-121.2383056
+"SMX","Santa Maria Public","Santa Maria, CA",34.8989167,-120.4574444
+"STS","Sonoma County/ Santa Rosa","Santa Rosa, CA",38.508989,-122.8128751
+"CEC","Crescent City","Crescent City, CA",41.7801667,-124.2365278
+"CIC","Chico Municipal","Chico, CA",39.7953889,-121.8584167
+"CRQ","McClellan-Palomar","Carlsbad, CA",33.12825,-117.2800833
+"IPL","Imperial County","Imperial, CA",32.8342194,-115.5787444
+"IYK","Indian Wells Valley","Inyokern, CA",35.6587413,-117.8295325
+"MCE","Merced Municipal","Merced, CA",37.28475,-120.5139167
+"MOD","Modesto City County","Modesto, CA",37.6258172,-120.9544214
+"OXR","Oxnard","Oxnard, CA",34.2008056,-119.2072222
+"PMD","Palmdale Regional","Palmdale, CA",34.6293889,-118.0845528
+"VIS","Visalia Municipal","Visalia, CA",36.3186667,-119.3928889
+"DEN","Denver International","Denver, CO",39.8494,-104.67372
+"COS","Colorado Springs Municipal","Colorado Springs, CO",38.7974,-104.7009
+"ASE","Aspen Pitkin County Sardy Field","Aspen, CO",39.2231667,-106.8688611
+"DRO","Durango-La Plata County","Durango, CO",37.1515167,-107.7537692
+"EGE","Eagle County Regional","Eagle, CO",39.6414802,-106.9174962
+"FNL","Fort Collins-Loveland Municipal","Loveland, CO",40.4518272,-105.0113356
+"GJT","Grand Junction Regional","Grand Junction, CO",39.1224125,-108.5267347
+"GUC","Gunnison County","Gunnison, CO",38.5339444,-106.9330278
+"HDN","Yampa Valley","Hayden, CO",40.4811667,-107.2176667
+"MTJ","Montrose County","Montrose, CO",38.5097958,-107.8942433
+"ALS","San Luis Valley/Bergman Field","Alamosa, CO",37.4349167,-105.8665556
+"CEZ","Cortez Municipal","Cortez, CO",37.303,-108.6280556
+"PUB","Pueblo Memorial","Pueblo, CO",38.2891378,-104.4965016
+"TEX","Telluride Regional","Telluride, CO",37.9537586,-107.90848
+"BDL","Bradley International","Windsor Locks, CT",41.9388889,-72.6832222
+"HVN","Tweed - New Haven","New Haven, CT",41.26375,-72.8868056
+"FLL","Ft. Lauderdale-Hollywood International","Fort Lauderdale, FL",26.0725833,-80.15275
+"MCO","Orlando International","Orlando, FL",28.431374,-81.30839
+"MIA","Miami International","Miami, FL",25.79498,-80.27849
+"JAX","Jacksonville International","Jacksonville, FL",30.4940556,-81.6878611
+"PBI","West Palm Beach International","West Palm Beach, FL",26.6831606,-80.0955892
+"RSW","Southwest Florida International","Fort Myers, FL",26.5361667,-81.7551667
+"TPA","Tampa International","Tampa, FL",27.9754722,-82.53325
+"DAB","Daytona Beach International","Daytona Beach, FL",29.1799167,-81.0580556
+"EYW","Key West International","Key West, FL",24.5561111,-81.7595556
+"MLB","Melbourne International","Melbourne, FL",28.1027528,-80.6452569
+"PIE","St Petersburg-Clearwater International","Clearwater, FL",27.91,-82.6874167
+"PNS","Pensacola Regional","Pensacola, FL",30.4734256,-87.1866122
+"SFB","Orlando Sanford","Sanford, FL",28.776701,-81.2355219
+"SRQ","Sarasota-Bradenton","Sarasota, FL",27.3954444,-82.5543889
+"TLH","Tallahassee Regional","Tallahassee, FL",30.3965278,-84.3503333
+"VPS","Okaloosa County Air Terminal","Eglin Air Force Base, FL",30.4833333,-86.5253333
+"GNV","Gainesville Regional","Gainesville, FL",29.6900556,-82.2717778
+"PFN","Panama City-Bay County International","Panama City, FL",30.2120833,-85.6828056
+"APF","Naples Municipal","Naples, FL",26.1522874,-81.7757933
+"ATL","Hartsfield-Jackson Atlanta International","Atlanta, GA",33.63985,-84.4439
+"SAV","Savannah / Hilton Head International","Savannah, GA",32.1275833,-81.2021389
+"AGS","Augusta Regional","Augusta, GA",33.3699444,-81.9645
+"CSG","Columbus Airport","Columbus, GA",32.5163333,-84.9388611
+"MCN","Middle Georgia Regional","Macon, GA",32.69285,-83.6492111
+"VLD","Valdosta Municipal","Valdosta, GA",30.7813722,-83.2762194
+"ABY","Southwest Georgia Regional","Albany, GA",31.535515,-84.1944733
+"AHN","Athens/ Ben Epps","Athens, GA",33.9485953,-83.3263469
+"BQK","Brunswick Golden Isles Airport","Brunswick, GA",31.2590344,-81.4663156
+"HNL","Honolulu International","Honolulu, HI",21.3186813,-157.9224287
+"KOA","Keahole","Kailua-Kona, HI",19.7387658,-156.0456314
+"LIH","Lihue","Lihue, HI",21.975983,-159.338958
+"OGG","Kahului","Kahului, Maui, HI",20.8986497,-156.4304579
+"ITO","Hilo International","Hilo, HI",19.720263,-155.0484701
+"JHM","Kapalua","Kapalua, HI",20.9629364,-156.6730317
+"LNY","Lanai","Lanai City, HI",20.7856111,-156.9514181
+"MKK","Molokai","Hoolehua, HI",21.1528858,-157.0962561
+"BOI","Boise Air Terminal/Gowen Field","Boise, ID",43.5643611,-116.2228611
+"IDA","Idaho Falls Municipal","Idaho Falls, ID",43.5137222,-112.07075
+"LWS","Lewiston - Nez Perce County","Lewiston, ID",46.3745,-117.0153889
+"PIH","Pocatello Regional","Pocatello, ID",42.9098056,-112.5959167
+"SUN","Friedman Memorial","Hailey, ID",43.5037789,-114.2955528
+"TWF","Magic Valley Regional","Twin Falls, ID",42.4818056,-114.48775
+"ORD","Chicago-O'Hare International","Chicago, IL",41.976172,-87.903266
+"MDW","Chicago Midway","Chicago, IL",41.78811,-87.74122
+"MLI","Quad City","Moline, IL",41.4482856,-90.5075201
+"BLV","Mid-America","Mascoutah, IL",38.5451667,-89.8351944
+"BMI","Bloomington-Normal","Bloomington, IL",40.4771111,-88.9159167
+"CMI","University Of Illinois-Willard","Savoy, IL",40.0388333,-88.2778056
+"PIA","General Wayne A. Downing Peoria Intl.","Peoria, IL",40.6642014,-89.6932578
+"RFD","Greater Rockford","Rockford, IL",42.1953611,-89.0972222
+"SPI","Abraham Lincoln Capital","Springfield, IL",39.8442099,-89.6780898
+"DEC","Decatur","Decatur, IL",39.8345625,-88.8656892
+"MWA","Williamson County","Marion, IL",37.7549722,-89.0110833
+"UIN","Quincy Municipal","Quincy, IL",39.9430178,-91.1944637
+"IND","Indianapolis International","Indianapolis, IN",39.714351,-86.29847
+"FWA","Ft. Wayne Municipal","Ft. Wayne, IN",40.9784722,-85.1951667
+"SBN","South Bend Regional","South Bend, IN",41.7082222,-86.3173333
+"EVV","Evansville Regional","Evansville, IN",38.0369963,-87.532365
+"GYY","Gary Regional","Gary, IN",41.6162778,-87.4127778
+"CID","Eastern Iowa","Cedar Rapids, IA",41.88942,-91.70033
+"DSM","Des Moines International","Des Moines, IA",41.5326,-93.6486
+"SUX","Colonel Bud Day Field","Sioux City, IA",42.4025,-96.384167
+"ALO","Waterloo Municipal","Waterloo, IA",42.5570814,-92.4003436
+"BRL","Southeast Iowa Regional","Burlington, IA",40.783225,-91.1255056
+"DBQ","Dubuque Regional","Dubuque, IA",42.402,-90.7094722
+"FOD","Fort Dodge Municipal","Fort Dodge, IA",42.5511994,-94.1918403
+"MCW","Mason City Municipal","Mason City, IA",43.1577925,-93.3312606
+"ICT","Wichita Dwight D. Eisenhower National Airport","Wichita, KS",37.6499444,-97.4330556
+"FOE","Forbes Field","Topeka, KS",38.9509444,-95.6636111
+"DDC","Dodge City Regional","Dodge City, KS",37.7631217,-99.9654241
+"GBD","Great Bend Municipal","Great Bend, KS",38.34425,-98.8591944
+"GCK","Garden City Municipal","Garden City, KS",37.9275278,-100.7244167
+"HYS","Hays Regional","Hays, KS",38.8422222,-99.2731667
+"LBL","Liberal Municipal","Liberal, KS",37.0442222,-100.9598611
+"MHK","Manhattan Regional","Manhattan, KS",39.1409722,-96.6708333
+"SLN","Salina Municipal","Salina, KS",38.7909664,-97.6521697
+"CVG","Cincinnati/Northern Kentucky International","Hebron, KY",39.0488367,-84.6678222
+"SDF","Louisville International","Louisville, KY",38.1740858,-85.7364989
+"LEX","Blue Grass","Lexington, KY",38.0365,-84.6058889
+"OWB","Owensboro Davies County","Owensboro, KY",37.7388342,-87.1668286
+"PAH","Barkley Regional","West Paducah, KY",37.0602875,-88.7729583
+"SME","Lake Cumberland Regional","Somerset, KY",37.054722,-84.614166
+"MSY","Louis Armstrong New Orleans International","Kenner, LA",29.9849,-90.2568
+"BTR","Baton Rouge Metropolitan","Baton Rouge, LA",30.53279,-91.15659
+"SHV","Shreveport Regional","Shreveport, LA",32.45464,-93.82855
+"LFT","Lafayette Regional","Lafayette, LA",30.20525,-91.9876111
+"AEX","Alexandria International","Alexandria, LA",31.32309,-92.54186
+"LCH","Lake Charles Regional","Lake Charles, LA",30.1260833,-93.2234167
+"MLU","Monroe Regional","Monroe, LA",32.5108656,-92.0376878
+"BGR","Bangor International","Bangor, ME",44.8074444,-68.8281389
+"PWM","Portland International Jetport","Portland, ME",43.6461667,-70.3092778
+"AUG","Augusta State","Augusta, ME",44.3206497,-69.7973181
+"BHB","Hancock County","Trenton, ME",44.4497689,-68.3615653
+"PQI","Northern Maine Regional","Presque Isle, ME",46.6889722,-68.0448056
+"RKD","Knox County Regional","Rockland, ME",44.0600744,-69.0992567
+"BWI","Baltimore-Washington International","BWI Airport, MD",39.17688,-76.67002
+"HGR","Hagerstown Regional","Hagerstown, MD",39.707779,-77.729446
+"SBY","Salisbury / Wicomico County Regional","Salisbury, MD",38.3405261,-75.5102881
+"BOS","Logan International","East Boston, MA",42.36657,-71.01696
+"ACK","Nantucket Memorial","Nantucket, MA",41.2530519,-70.0601814
+"BED","Hanscom Field","Bedford, MA",42.4699531,-71.28903
+"CEF","Westover Metropolitan","Chicopee, MA",42.1940139,-72.5347833
+"HYA","Barnstable Municipal","Hyannis, MA",41.6693364,-70.2803558
+"MVY","Martha's Vineyard","Vineyard Haven, MA",41.3930278,-70.6143333
+"ORH","Worcester Municipal","Worcester, MA",42.267223,-71.875832
+"PVC","Provincetown Minicipal","Provincetown, MA",42.0719983,-70.2213767
+"DTW","Detroit Metropolitan Wayne County","Detroit, MI",42.2124444,-83.3533889
+"FNT","Bishop International","Flint, MI",42.9654167,-83.7436667
+"GRR","Kent County International","Grand Rapids, MI",42.8808333,-85.5228056
+"LAN","Capital City","Lansing, MI",42.7786683,-84.5866866
+"AZO","Kalamazoo Municipal","Kalamazoo, MI",42.2343889,-85.5515556
+"MBS","MBS International","Freeland, MI",43.5329167,-84.0796389
+"TVC","Cherry Capital","Traverse City, MI",44.7416389,-85.5823611
+"APN","Alpena County Regional","Alpena, MI",45.0780675,-83.5602858
+"CIU","Chippewa County International","Kincheloe, MI",46.25075,-84.4723889
+"CMX","Houghton County Memorial","Calumet, MI",47.1684172,-88.4890608
+"ESC","Delta County","Escanaba, MI",45.7226667,-87.0937222
+"IMT","Ford","Kingsford, MI",45.8183611,-88.1145556
+"IWD","Gogebic County","Ironwood, MI",46.5274747,-90.1313967
+"MBL","Manistee County Blacker","Manistee, MI",44.2724722,-86.2468889
+"MKG","Muskegon County International","Muskegon, MI",43.1676717,-86.2354387
+"PLN","Pellston Regional","Pellston, MI",45.5709167,-84.7967222
+"SAW","Sawyer International","Gwinn, MI",46.3536389,-87.3953611
+"HIB","Chisholm-Hibbing Municipal","Hibbing, MN",47.3865992,-92.8389933
+"MSP","Minneapolis-St. Paul International","St. Paul, MN",44.88105,-93.20286
+"DLH","Duluth International","Duluth, MN",46.8420833,-92.1936389
+"RST","Rochester International","Rochester, MN",43.9082778,-92.5000278
+"BJI","Bemidji City-County","Bemidji, MN",47.5107222,-94.9347222
+"BRD","Brainerd Lakes Regional","Brainerd, MN",46.40175,-94.1355556
+"INL","Falls International","International Falls, MN",48.5655833,-93.4021667
+"STC","St. Cloud Regional","St. Cloud, MN",45.5465556,-94.0598889
+"TVF","Thief River Falls Regional","Thief River Falls, MN",48.0656667,-96.185
+"GPT","Gulfport Bilox Regional","Gulfport, MS",30.4072688,-89.0700968
+"JAN","Jackson International","Jackson, MS",32.3111667,-90.0758889
+"UTA","Tunica Municipal","Tunica, MS",34.6850556,-90.3477778
+"GLH","Greenville Municipal","Greenville, MS",33.4828811,-90.9856139
+"GTR","Golden Triangle Regional","Columbus, MS",33.4503333,-88.5913611
+"MEI","Key Field","Meridian, MS",32.3326244,-88.7518679
+"PIB","Pine-belt Regional","Moselle, MS",31.4671389,-89.3370556
+"TUP","CD Lemons Municipal","Tupelo, MS",34.2681083,-88.769895
+"STL","Lambert St. Louis International","St Louis, MO",38.743,-90.3662
+"MCI","Kansas City International","Kansas City, MO",39.2975,-94.7162
+"SGF","Springfield-Branson National","Springfield, MO",37.2385,-93.3971
+"CGI","Cape Girardeau Regional","Cape Girardeau, MO",37.2268,-89.5638
+"COU","Columbia Regional","Columbia, MO",38.8171,-92.2223
+"IRK","Kirksville Regional","Kirksville, MO",40.0932,-92.5414
+"JLN","Joplin Regional","Joplin, MO",37.1572,-94.5013
+"TBN","Waynesville St. Robert Regional Forney Field","Ft. Leonard Wood, MO",37.7329,-92.137
+"BTM","Bert Mooney","Butte, MT",45.9548056,-112.4974722
+"MLS","Frank Wiley Field","Miles City, MT",46.4279722,-105.88625
+"OLF","L. M. Clayton / Wolf Point","Wolf Point, MT",48.0945178,-105.5750536
+"BIL","Billings Logan","Billings, MT",45.8035,-108.53709
+"BZN","Gallatin Field","Belgrade, MT",45.77596,-111.1582
+"MSO","Missoula International","Missoula, MT",46.91926,-114.0836
+"GPI","Glacier Park International","Kalispell, MT",48.308,-114.2519
+"GTF","Great Falls International","Great Falls, MT",47.4826539,-111.37061
+"HLN","Helena Regional","Helena, MT",46.6068056,-111.98275
+"GDV","Dawson Community","Dawson County, MT",47.1387187,-104.8071977
+"GGW","Glasgow Intl / Wokal Field","Glasgow, MT",48.2125,-106.6147222
+"HVR","Havre City-County","Havre, MT",48.5429722,-109.7623333
+"LWT","Lewistown Municipal","Lewistown, MT",47.04925,-109.4666944
+"SDY","Sidney-Richland Regional","Sidney, MT",47.7068611,-104.1925556
+"WYS","West Yellowstone","West Yellowstone, MT",44.6883889,-111.1176389
+"OMA","Eppley Airfield","Omaha, NE",41.2997,-95.8998
+"LNK","Lincoln Municipal","Lincoln, NE",40.84672,-96.75526
+"AIA","Alliance Municipal","Alliance, NE",42.0532222,-102.8037778
+"BFF","Scottsbluff County","Gering, NE",41.8740278,-103.5956389
+"CDR","Chadron Municipal","Chadron, NE",42.8375556,-103.0954167
+"EAR","Kearney Minicipal","Kearney, NE",40.7254,-99.0133
+"GRI","Central Nebraska Regional","Grand Island, NE",40.9752,-98.3185
+"LBF","North Platte Regional","North Platte, NE",41.1262222,-100.6836667
+"MCK","McCook Municipal","McCook, NE",40.2062778,-100.5920833
+"LAS","McCarran International","Las Vegas, NV",36.0800556,-115.15225
+"RNO","Reno/Tahoe International","Reno, NV",39.4991111,-119.7681111
+"EKO","Elko Municipal","Elko, NV",40.8249167,-115.7916944
+"ELY","Ely Airport","Ely, NV",39.300999,-114.841394
+"MHT","Manchester","Manchester, NH",42.9328043,-71.4357391
+"PSM","Portsmouth International at Pease","Portsmouth, NH",43.0779444,-70.8232778
+"LEB","Lebanon Municipal","West Lebanon, NH",43.6261111,-72.3041944
+"EWR","Newark International","Newark, NJ",40.69055,-74.17761
+"ACY","Atlantic City International","Atlantic City, NJ",39.4575833,-74.5771667
+"ABQ","Albuquerque International Sunport","Albuquerque, NM",35.0496,-106.617
+"FMN","Four Corners Regional","Farmington, NM",36.74125,-108.2299444
+"ROW","Roswell International Air Center","Roswell, NM",33.30663,-104.52208
+"SAF","Santa Fe Municipal","Santa Fe, NM",35.6171086,-106.0894228
+"JFK","John F. Kennedy International","Jamaica, NY",40.64432,-73.78261
+"LGA","LaGuardia","Flushing, NY",40.77725,-73.8726111
+"ALB","Albany County","Albany, NY",42.7491111,-73.8019722
+"BUF","Greater Buffalo","Cheektowaga, NY",42.9405247,-78.7321667
+"HPN","Westchester County","White Plains, NY",41.0669444,-73.7075556
+"ISP","Long Island MacArthur","Ronkonkoma, Town of Islip, NY",40.78918,-73.09736
+"ROC","Rochester-Monroe County","Rochester, NY",43.1188611,-77.6723889
+"SWF","Stewart","New Windor, NY",41.5041111,-74.1048333
+"SYR","Syracuse-Hancock International","North Syracuse, NY",43.1111869,-76.1063106
+"BGM","Binghamton Regional","Johnson City, NY",42.2085556,-75.9797222
+"ELM","Elmira-Corning Regional","Horseheads, NY",42.1598889,-76.8916111
+"IAG","Niagara Falls International","Niagara Falls, NY",43.1073333,-78.9461944
+"PBG","Plattsburg International","Plattsburgh, NY",44.6509444,-73.4681389
+"RME","Oneida County at Rome (Griffiss)","Oriskany, NY",43.2338056,-75.4070278
+"6N5","East 34th Street Heliport","New York, NY",40.7426017,-73.9720831
+"ART","Watertown International","Dexter, NY",43.9919222,-76.0217386
+"ITH","Tompkins County","Ithaca, NY",42.4913611,-76.4587222
+"JHW","Chautauqua County","Jamestown, NY",42.1533889,-79.2580278
+"JRB","Downtown Manhattan Heliport","New York, NY",40.7012136,-74.0090283
+"MSS","Massena International","Massena, NY",44.9358333,-74.8455556
+"OGS","Ogdensburg International","Ogdensburg, NY",44.6818611,-75.4655
+"SLK","Adirondack Regional","Saranac Lake, NY",44.3853056,-74.2061944
+"CLT","Charlotte Douglas International","Charlotte, NC",35.22073,-80.94396
+"GSO","Piedmont Triad International","Greensboro, NC",36.09775,-79.9373056
+"RDU","Raleigh-Durham International","RDU Airport, NC",35.8776389,-78.7874722
+"AVL","Asheville Regional","Fletcher, NC",35.4361944,-82.5418056
+"ILM","Wilmington International","Wilmington, NC",34.2706667,-77.9025
+"EWN","Coastal Carolina Regional","New Bern, NC",35.0729722,-77.0429444
+"FAY","Fayetteville Regional","Fayetteville, NC",34.9912222,-78.8802778
+"ISO","Kinston Regional Jetport","Kinston, NC",35.3314444,-77.6088333
+"OAJ","Albert J Ellis","Richlands, NC",34.8291644,-77.6121378
+"PGV","Pitt-Greenville","Greenville, NC",35.63525,-77.3853056
+"FAR","Hector International","Fargo, ND",46.92065,-96.8157639
+"BIS","Bismarck Municipal","Bismarck, ND",46.7727222,-100.74575
+"GFK","Grand Forks International","Grand Forks, ND",47.9472756,-97.1736397
+"MOT","Minot International","Minot, ND",48.2576389,-101.2780278
+"DIK","Dickinson Regional","Dickinson, ND",46.802,-102.7925
+"DVL","Devils Lake Municipal","Devils Lake, ND",48.1145833,-98.9083333
+"ISN","Sloulin Field International","Williston, ND",48.17673,-103.63077
+"JMS","Jamestown Municipal","Jamestown, ND",46.9297222,-98.6781944
+"CLE","Cleveland Hopkins International","Cleveland, OH",41.4094167,-81.8549804
+"CMH","John Glenn Columbus International","Columbus, OH",39.9979722,-82.88464
+"DAY","James M. Cox Dayton International","Dayton, OH",39.9023758,-84.2193751
+"CAK","Akron-Canton Regional","North Canton, OH",40.9160833,-81.4421944
+"TOL","Toledo Express","Swanton, OH",41.5868056,-83.8078333
+"LCK","Rickenbacker International","Columbus, OH",39.8137858,-82.9278226
+"YNG","Youngstown-Warren Regional","Vienna, OH",41.2607356,-80.6790967
+"OKC","Will Rogers World Airport","Oklahoma City, OK",35.3930883,-97.6007339
+"TUL","Tulsa International","Tulsa, OK",36.1983889,-95.8881111
+"LAW","Lawton Municipal","Lawton, OK",34.5677144,-98.4166367
+"PDX","Portland International","Portland, OR",45.5884557,-122.5974516
+"EUG","Mahlon Sweet Field","Eugene, OR",44.1245833,-123.2119722
+"MFR","Rogue Valley International-Medford","Medford, OR",42.3742222,-122.8735
+"RDM","Roberts Field","Redmond, OR",44.2540556,-121.1499722
+"LMT","Kingsley Field","Klamath Falls, OR",42.1561389,-121.7331944
+"OTH","North Bend Municipal","North Bend, OR",43.4169444,-124.2470278
+"PDT","Eastern Oregon Regional - Pendelton","Pendelton, OR",45.6950556,-118.8414444
+"SLE","McNary Field","Salem, OR",44.9095278,-123.0025
+"GSN","Saipan International","Fadang, MP",15.1190014,145.7293561
+"GRO","Rota International","Sinapalu, MP",14.1743552,145.2411253
+"PHL","Philadelphia International","Philadelphia, PA",39.8722494,-75.2408658
+"PIT","Pittsburgh International","Pittsburgh, PA",40.4914722,-80.2328611
+"ABE","Lehigh Valley International","Allentown, PA",40.65222,-75.44028
+"MDT","Harrisburg International","Middletown, PA",40.1934953,-76.7634036
+"AVP","Wilkes Barre/Scranton International","Avoca, PA",41.3384722,-75.7233889
+"ERI","Erie International","Erie, PA",42.0820214,-80.1762156
+"AOO","Altoona-Blair County","Martinsburg, PA",40.2963611,-78.3200278
+"BFD","Bradford Regional","Lewis Run, PA",41.8030678,-78.6401208
+"DUJ","Dubois-Jefferson County","Falls Creek, PA",41.1782778,-78.8986944
+"FKL","Venango Regional","Franklin, PA",41.3778736,-79.8603617
+"IPT","Williamsport Lycoming County","Montoursville, PA",41.2418358,-76.9210956
+"JST","Johnstown-Cambria County","Johnstown, PA",40.3161111,-78.8339444
+"LBE","Westmoreland County","Latrobe, PA",40.2746111,-79.40675
+"LNS","Lancaster","Lititz, PA",40.1223611,-76.2943611
+"RDG","Reading Regional","Reading, PA",40.3785,-75.96525
+"UNV","University Park","University Park, PA",40.8492778,-77.8486944
+"SJU","Luis Munoz Marin International","San Juan, PR",18.4394167,-66.0018333
+"BQN","Rafael Hernandez","Aguadilla, PR",18.4948611,-67.1294444
+"PSE","Mercedita","Ponce, PR",18.0083056,-66.5630278
+"PVD","T F Green State","Warwick, RI",41.7239992,-71.4282211
+"CAE","Columbia Metropolitan","West Columbia, SC",33.9388333,-81.1195278
+"CHS","Charleston International Airport","Charleston, SC",32.8986389,-80.0405278
+"GSP","Greenville-Spartanburg International","Greer, SC",34.8956667,-82.2188611
+"MYR","Myrtle Beach International","Myrtle Beach, SC",33.67975,-78.9283333
+"HXD","Hilton Head","Hilton Head Island, SC",32.2243611,-80.6974722
+"FLO","Florence Regional","Florence, SC",34.1853611,-79.7238889
+"FSD","Joe Foss Field","Sioux Falls, SD",43.5954,-96.7373
+"RAP","Rapid City Regional","Rapid City, SD",44.0453333,-103.0573611
+"ABR","Aberdeen Regional","Aberdeen, SD",45.4490556,-98.4218333
+"ATY","Watertown Municipal","Watertown, SD",44.9139722,-97.1547222
+"HON","Huron Minicipal","Huron, SD",44.3851944,-98.2285556
+"PIR","Pierre Regional","Pierre, SD",44.3826944,-100.2859722
+"BNA","Nashville International","Nashville, TN",36.1244722,-86.6781944
+"MEM","Memphis International","Memphis, TN",35.0424167,-89.9766667
+"CHA","Chattanooga Metropolitan","Chattanooga, TN",35.0351944,-85.2035556
+"TYS","McGhee Tyson","Alcoa, TN",35.8109722,-83.9940278
+"TRI","Tri Cities Regional","Blountville, TN",36.4752222,-82.4074167
+"MKL","McKellar-Sipes Regional","Jackson, TN",35.5998889,-88.9156111
+"DFW","Dallas/Fort Worth International","DFW Airport, TX",32.896615,-97.0377
+"IAH","George Bush Houston Intercontinental","Houston, TX",29.9844336,-95.3414422
+"AUS","Austin-Bergstrom International","Austin, TX",30.202568,-97.66808
+"DAL","Dallas Love Field","Dallas, TX",32.8471111,-96.8517778
+"ELP","El Paso International","El Paso, TX",31.80725,-106.3775556
+"HOU","William P. Hobby","Houston, TX",29.65442,-95.27653
+"SAT","San Antonio International","San Antonio, TX",29.5336944,-98.4697778
+"AMA","Amarillo International","Amarillo, TX",35.2193611,-101.7059167
+"CRP","Corpus Christi","Corpus Christi, TX",27.7703611,-97.5012222
+"HRL","Rio Grande Valley International","Harlingen, TX",26.2285,-97.6543889
+"LBB","Lubbock International","Lubbock, TX",33.6636389,-101.8227778
+"MAF","Midland International","Midland, TX",31.9425278,-102.2019139
+"MFE","Miller International","McAllen, TX",26.1758333,-98.2386111
+"ABI","Abilene Regional","Abilene, TX",32.4113056,-99.6818889
+"ACT","Waco Regional","Waco, TX",31.6112883,-97.2305192
+"BRO","Brownsville/South Padre International","Brownsville, TX",25.9068333,-97.4258333
+"GGG","Gregg County","Longview, TX",32.3840144,-94.7114867
+"GRK","Killeen-Ft. Hood Regional","Killeen, TX",31.06725,-97.8289167
+"LRD","Laredo International","Laredo, TX",27.5437994,-99.4615326
+"SPS","Sheppard AFB/ Wichita Falls Municipal","Wichita Falls, TX",33.9887961,-98.4918933
+"BPT","Jefferson County","Beaumont, TX",29.9508333,-94.0206944
+"CLL","Easterwood Field","College Station, TX",30.5885833,-96.3638333
+"DRT","Del Rio International","Del Rio, TX",29.3742069,-100.9271569
+"SJT","Mathis Field","San Angelo, TX",31.35775,-100.4963056
+"TYR","Tyler Pounds Field","Tyler, TX",32.3541389,-95.4023861
+"VCT","Victoria Regional","Victoria, TX",28.8525556,-96.9184872
+"GUM","A.B. Won Pat International","Tamuning, GU",13.4838738,144.7971703
+"PPG","Pago Pago-American Samoa","Tafuna, AS",-14.33166,-170.7115031
+"SLC","Salt Lake City International","Salt Lake City, UT",40.7861,-111.98099
+"ENV","Wendover Municipal","Wendover, UT",40.7186944,-114.0308889
+"CDC","Cedar City Municipal","Cedar City, UT",37.7009664,-113.0988458
+"CNY","Canyonlands Field","Moab, UT",38.7549561,-109.7548439
+"SGU","St. George Municipal","St. George, UT",37.0905833,-113.5930556
+"VEL","Vernal Regional","Vernal, UT",40.4409167,-109.5099167
+"BTV","Burlington International","South Burlington, VT",44.4718611,-73.1532778
+"RUT","Rutland State","North Clarendon, VT",43.5299069,-72.949615
+"STT","Cyril E. King International","St Thomas, VI",18.3373056,-64.9733611
+"STX","Henry E. Rohlsen","Christiansted, VI",17.7015558,-64.8017219
+"DCA","Washington Reagan National","Washington, DC, VA",38.849,-77.04133
+"IAD","Washington-Dulles International","Washington, DC, VA",38.95313,-77.44743
+"ORF","Norfolk International","Norfolk, VA",36.8946111,-76.2012222
+"RIC","Richmond International","Sandston, VA",37.50724,-77.33349
+"PHF","Newport News/Williamsburg International","Newport News, VA",37.1318889,-76.4929722
+"ROA","Roanoke Regional Woodrum Field","Roanoke, VA",37.3254722,-79.9754167
+"CHO","Charlottesville-Albemarle","Earlysville, VA",38.1386389,-78.4528611
+"LYH","Lynchburg Regional","Lynchburg, VA",37.3253889,-79.2004306
+"SHD","Shenandoah Valley Regional","Weyers Cave, VA",38.2638333,-78.8964444
+"CRW","Yeager","Charleston, WV",38.3731389,-81.5931944
+"HTS","Tri-State","Huntington, WV",38.3666667,-82.5580278
+"LWB","Greenbrier Valley","Lewisburg, WV",37.8583056,-80.3994722
+"BKW","Raleigh County Memorial","Beaver, WV",37.7873265,-81.1241643
+"CKB","Benedun","Bridgeport, WV",39.2966389,-80.2280833
+"MGW","Morgantown Municipal","Morgantown, WV",39.6429075,-79.9163142
+"PKB","Wood County","Parkersburg, WV",39.3451039,-81.4392031
+"SEA","Seattle-Tacoma International","Seattle, WA",47.44354,-122.30176
+"GEG","Spokane International","Spokane, WA",47.6198611,-117.5338333
+"ALW","Walla Walla Regional","Walla Walla, WA",46.0947778,-118.289
+"BLI","Bellingham International","Bellingham, WA",48.7926944,-122.5375278
+"EAT","Pangborn Memorial","East Wenatchee, WA",47.3980892,-120.2057374
+"PSC","Tri-Cities","Pasco, WA",46.2646944,-119.1190278
+"PUW","Pullman-Moscow Regional","Pullman, WA",46.7438611,-117.1095833
+"YKM","Yakima Air Terminal","Yakima, WA",46.571201,-120.54101
+"MKE","General Mitchell International","Milwaukee, WI",42.94769,-87.902
+"ATW","Outagamie County","Appleton, WI",44.2580833,-88.5190833
+"GRB","Austin Straubel Field","Green Bay, WI",44.4846389,-88.1297222
+"MSN","Dane County Regional","Madison, WI",43.13622,-89.3458
+"CWA","Central Wisconsin Regional","Mosinee, WI",44.7776237,-89.666778
+"LSE","Lacrosse Municipal","La Crosse, WI",43.8792656,-91.256638
+"EAU","Chippewa Valley Regional","Eau Claire, WI",44.8658045,-91.4842552
+"RHI","Rhinelander-Oneida County","Rhinelander, WI",45.6308997,-89.4666282
+"CPR","Natrona County International","Casper, WY",42.90049,-106.4598
+"JAC","Jackson Hole","Jackson, WY",43.60143,-110.73566
+"COD","Yellowstone Regional","Cody, WY",44.5201944,-109.0238056
+"CYS","Cheyenne Regional","Cheyenne, WY",41.1556389,-104.8104722
+"GCC","Gillette-Campbell County","Gillette, WY",44.3489167,-105.5393611
+"LAR","Laramine Regional","Laramie, WY",41.3120556,-105.675
+"RIW","Riverton Regional","Riverton, WY",43.064235,-108.4598411
+"RKS","Rock Springs-Sweetwater County","Rock Springs, WY",41.5942222,-109.0651944
+"SHR","Sheridan County","Sheridan, WY",44.7691944,-106.9802778
+"WRL","Worland Municipal","Worland, WY",43.9657131,-107.9508308
+"LGU","Logan Cache","Logan, UT",41.787731,-111.852684
+"SGJ","St. Augustine","St. Augustine, FL",29.95527,-81.34312
+"ECP","Northwest Florida Beaches International","Panama City Beach, FL",30.357803,-85.798923
+"YIP","Willow Run","Ypsilanti, MI",42.237928,-83.530409
+"ANB","Anniston Metropolitan","Oxford, AL",33.5897,-85.8525
+"MQY","Smyrna","Smyrna, TN",36.008978,-86.520075
+"BMG","Monroe County","Bloomington, IN",39.146111,-86.616667
+"SWO","Stillwater Regional","Stillwater, OK",36.161111,-97.085556
+"OCF","Ocala International","Ocala, FL",29.1725,-82.224167
+"BWG","Bowling Green - Warren County Regional","Bowling Green, KY",36.964444,-86.419722
+"LAF","Purdue University","West Lafayette, IN",40.412222,-86.936944
+"BKG","Branson Airport","Branson, MO",36.5392,-93.1989
+"ESF","Alexandria Esler Regional","Alexandria, LA",31.39097,-92.29692
+"UCA","Oneida County Airport","Whitestown, NY",43.145,-75.38388
+"BLF","Mercer County Airport","Bluefield, WV",37.29583,-81.20777
+"DUT","Unalaska","Unalaska, AK",53.89434,-166.54231
+"GON","Groton-New London","Groton, CT",41.3338,-72.0472
+"TTN","Trenton-Mercer Airport","Ewing, NJ",40.27666,-74.81333
+"GUP","Gallup Municipal Airport","Gallup, NM",35.5159,-108.78038
+"ILG","New Castle Airport","New Castle, DE",39.67861,-75.60666
+"FCA","Glacier Park International","Kalispell, MT",48.308,-114.2519
+"LAL","Lakeland Linder Regional Airport","Lakeland, FL",27.988747,-82.0211526
+"HOB","Lea County Regional","Hobbs, NM",32.6875278,-103.2170278
+"PVU","Provo Municipal","Provo, UT",40.21935,-111.71828
+"BMG","Monroe County Airport","Bloomington, IN",39.1460208,-86.6166805
+"SCE","State College Airport","State College, PA",40.8492778,-77.8486944
+"TCL","Tuscaloosa Regional","Tuscaloosa, AL",33.2189,-87.6064
+"BBG","Branson Airport","Branson, MO",36.5392,-93.1989
+"GCN","Grand Canyon National Park","Tusayan, AZ",35.95939,-112.13357
+"VQS","Antonio Rivera Rodriquez Airport","Vieques, PR",18.134089,-65.48803
+"OGD","Ogden Hinckley","Ogden, UT",41.193349,-112.009138
+"JQF","Concord Regional Airport","Concord, NC",35.38587,-80.71409
+"MPB","Miami Seaplane Base","Miami, FL",25.7833583,-80.1796066
+"VRB","Vero Beach Airport","Vero Beach in Indian River County, FL",27.6556,80.4179
