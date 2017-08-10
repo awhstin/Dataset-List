@@ -11,3 +11,5 @@ I want to store some of my favorite data sets here.
 + Center for Disease Control - [Wonder Database](https://wonder.cdc.gov/)
   + Mortality Rates, foodborne illness data, etc 
 + SimpleMaps US Cities [Database](http://simplemaps.com/data/us-cities)
++ I created a list of airports and shortcodes from the TSA XML [file](https://www.tsa.gov/data/apcp.xml). The airport csv is in the this repo, and here is a map of some of the airports. 
+[airports]: https://github.com/awhstin/Dataset-List/blob/master/Rplot.png "Airports"
