@@ -1,0 +1,492 @@
+head,Name,Location,Lat,Lon
+<shortcode>HSV</shortcode>,<name>Huntsville International</name>,"<city>Huntsville</city>, <state>AL</state>",<latitude>34.6486</latitude>,<longitude>-86.7751</longitude>
+<shortcode>MOB</shortcode>,<name>Mobile Regional</name>,"<city>Mobile</city>, <state>AL</state>",<latitude>30.6813</latitude>,<longitude>-88.2443</longitude>
+<shortcode>DHN</shortcode>,<name>Dothan Regional</name>,"<city>Dothan</city>, <state>AL</state>",<latitude>31.3151</latitude>,<longitude>-85.4486</longitude>
+<shortcode>MGM</shortcode>,<name>Montgomery Regional</name>,"<city>Montgomery</city>, <state>AL</state>",<latitude>32.3054</latitude>,<longitude>-86.3909</longitude>
+<shortcode>MSL</shortcode>,<name>Muscle Shoals</name>,"<city>Muscle Shoals</city>, <state>AL</state>",<latitude>34.7456</latitude>,<longitude>-87.6192</longitude>
+<shortcode>BHM</shortcode>,<name>Birmingham-Shuttlesworth International</name>,"<city>Birmingham</city>, <state>AL</state>",<latitude>33.5613</latitude>,<longitude>-86.7529</longitude>
+<shortcode>ANC</shortcode>,<name>Anchorage International</name>,"<city>Anchorage</city>, <state>AK</state>",<latitude>61.1735</latitude>,<longitude>-149.98115</longitude>
+<shortcode>FAI</shortcode>,<name>Fairbanks International</name>,"<city>Fairbanks</city>, <state>AK</state>",<latitude>64.8154917</latitude>,<longitude>-147.8585528</longitude>
+<shortcode>JNU</shortcode>,<name>Juneau International</name>,"<city>Juneau</city>, <state>AK</state>",<latitude>58.3549722</latitude>,<longitude>-134.5762778</longitude>
+<shortcode>ADK</shortcode>,<name>Adak Naval Air Station</name>,"<city>Adak</city>, <state>AK</state>",<latitude>51.8779639</latitude>,<longitude>-176.6460306</longitude>
+<shortcode>ADQ</shortcode>,<name>Kodiak State</name>,"<city>Kodiak</city>, <state>AK</state>",<latitude>57.7499678</latitude>,<longitude>-152.4938553</longitude>
+<shortcode>AKN</shortcode>,<name>King Salmon</name>,"<city>King Salmon</city>, <state>AK</state>",<latitude>58.6764935</latitude>,<longitude>-156.648691</longitude>
+<shortcode>BET</shortcode>,<name>Bethel</name>,"<city>Bethel</city>, <state>AK</state>",<latitude>60.7797778</latitude>,<longitude>-161.838</longitude>
+<shortcode>BRW</shortcode>,<name>Wiley Post - Will Rogers Memorial</name>,"<city>Barrow</city>, <state>AK</state>",<latitude>71.2854475</latitude>,<longitude>-156.7660019</longitude>
+<shortcode>CDV</shortcode>,"<name>Merle K. ""Mudhole"" Smith</name>","<city>Cordova</city>, <state>AK</state>",<latitude>60.4917778</latitude>,<longitude>-145.4775556</longitude>
+<shortcode>DLG</shortcode>,<name>Dillingham</name>,"<city>Dillingham</city>, <state>AK</state>",<latitude>59.0446667</latitude>,<longitude>-158.5055</longitude>
+<shortcode>GST</shortcode>,<name>Gustavus</name>,"<city>Gustavus</city>, <state>AK</state>",<latitude>58.4252778</latitude>,<longitude>-135.7074167</longitude>
+<shortcode>KTN</shortcode>,<name>Ketchikan International</name>,"<city>Ketchikan</city>, <state>AK</state>",<latitude>55.354075</latitude>,<longitude>-131.7112194</longitude>
+<shortcode>OME</shortcode>,<name>Nome</name>,"<city>Nome</city>, <state>AK</state>",<latitude>64.5122022</latitude>,<longitude>-165.4452458</longitude>
+<shortcode>OTZ</shortcode>,<name>Ralph Wien Memorial</name>,"<city>Kotzebue</city>, <state>AK</state>",<latitude>66.8846944</latitude>,<longitude>-162.5985</longitude>
+<shortcode>PSG</shortcode>,<name>Petersburg</name>,"<city>Petersburg</city>, <state>AK</state>",<latitude>56.8016667</latitude>,<longitude>-132.9452778</longitude>
+<shortcode>SCC</shortcode>,<name>Deadhorse</name>,"<city>Prudhoe Bay</city>, <state>AK</state>",<latitude>70.19475</latitude>,<longitude>-148.4651667</longitude>
+<shortcode>SIT</shortcode>,<name>Sitka Municipal</name>,"<city>Sitka</city>, <state>AK</state>",<latitude>57.0471389</latitude>,<longitude>-135.3616111</longitude>
+<shortcode>WRG</shortcode>,<name>Wrangell</name>,"<city>Wrangell</city>, <state>AK</state>",<latitude>56.4843333</latitude>,<longitude>-132.3698333</longitude>
+<shortcode>YAK</shortcode>,<name>Yakutat</name>,"<city>Yakutat</city>, <state>AK</state>",<latitude>59.5033056</latitude>,<longitude>-139.66025</longitude>
+<shortcode>ENA</shortcode>,<name>Kenai Municipal</name>,"<city>Kenai</city>, <state>AK</state>",<latitude>60.5730543</latitude>,<longitude>-151.2450027</longitude>
+<shortcode>HOM</shortcode>,<name>Homer</name>,"<city>Homer</city>, <state>AK</state>",<latitude>59.643565</latitude>,<longitude>-151.492502</longitude>
+<shortcode>VDZ</shortcode>,<name>Valdez</name>,"<city>Valdez</city>, <state>AK</state>",<latitude>61.133889</latitude>,<longitude>-146.248333</longitude>
+<shortcode>PHX</shortcode>,<name>Phoenix Sky Harbor International</name>,"<city>Phoenix</city>, <state>AZ</state>",<latitude>33.4347</latitude>,<longitude>-112.0094</longitude>
+<shortcode>TUS</shortcode>,<name>Tucson International</name>,"<city>Tucson</city>, <state>AZ</state>",<latitude>32.12049</latitude>,<longitude>-110.93715</longitude>
+<shortcode>FLG</shortcode>,<name>Flagstaff Pulliam</name>,"<city>Flagstaff</city>, <state>AZ</state>",<latitude>35.1403056</latitude>,<longitude>-111.66925</longitude>
+<shortcode>IFP</shortcode>,<name>Laughlin/Bullhead International</name>,"<city>Bullhead City</city>, <state>AZ</state>",<latitude>35.1559722</latitude>,<longitude>-114.5594444</longitude>
+<shortcode>IWA</shortcode>,<name>Phoenix-Mesa Gateway</name>,"<city>Mesa</city>, <state>AZ</state>",<latitude>33.3078333</latitude>,<longitude>-111.6554722</longitude>
+<shortcode>PRC</shortcode>,<name>Prescott Municipal</name>,"<city>Prescott</city>, <state>AZ</state>",<latitude>34.6544444</latitude>,<longitude>-112.4196111</longitude>
+<shortcode>IGM</shortcode>,<name>Kingman</name>,"<city>Kingman</city>, <state>AZ</state>",<latitude>35.2594722</latitude>,<longitude>-113.9380556</longitude>
+<shortcode>NYL</shortcode>,<name>Yuma International</name>,"<city>Yuma</city>, <state>AZ</state>",<latitude>32.65639</latitude>,<longitude>-114.61285</longitude>
+<shortcode>PGA</shortcode>,<name>Page Municipal</name>,"<city>Page</city>, <state>AZ</state>",<latitude>36.9260833</latitude>,<longitude>-111.4483611</longitude>
+<shortcode>SOW</shortcode>,<name>Show Low Regional</name>,"<city>Show Low</city>, <state>AZ</state>",<latitude>34.2654722</latitude>,<longitude>-110.0056667</longitude>
+<shortcode>LIT</shortcode>,<name>Bill and Hillary Clinton National</name>,"<city>Little Rock</city>, <state>AR</state>",<latitude>34.72813</latitude>,<longitude>-92.22044</longitude>
+<shortcode>XNA</shortcode>,<name>Northwest Arkansas Regional</name>,"<city>Highfill</city>, <state>AR</state>",<latitude>36.27547</latitude>,<longitude>-94.29716</longitude>
+<shortcode>FSM</shortcode>,<name>Fort Smith Regional</name>,"<city>Ft Smith</city>, <state>AR</state>",<latitude>35.34061</latitude>,<longitude>-94.35864</longitude>
+<shortcode>TXK</shortcode>,<name>Texarkana Regional</name>,"<city>Texarkana</city>, <state>AR</state>",<latitude>33.4564</latitude>,<longitude>-93.99417</longitude>
+<shortcode>ELD</shortcode>,<name>South Arkansas Regional</name>,"<city>El Dorado</city>, <state>AR</state>",<latitude>33.2209722</latitude>,<longitude>-92.8132778</longitude>
+<shortcode>HOT</shortcode>,<name>Hot Springs Memorial Field</name>,"<city>Hot Springs</city>, <state>AR</state>",<latitude>34.4780278</latitude>,<longitude>-93.0962222</longitude>
+<shortcode>HRO</shortcode>,<name>Boone County</name>,"<city>Harrison</city>, <state>AR</state>",<latitude>36.26393</latitude>,<longitude>-93.15089</longitude>
+<shortcode>JBR</shortcode>,<name>Jonesboro Municipal</name>,"<city>Jonesboro</city>, <state>AR</state>",<latitude>35.8339</latitude>,<longitude>-90.6497</longitude>
+<shortcode>LAX</shortcode>,<name>Los Angeles International</name>,"<city>Los Angeles</city>, <state>CA</state>",<latitude>33.942452</latitude>,<longitude>-118.40801</longitude>
+<shortcode>SFO</shortcode>,<name>San Francisco International</name>,"<city>San Francisco</city>, <state>CA</state>",<latitude>37.61498</latitude>,<longitude>-122.38971</longitude>
+<shortcode>BUR</shortcode>,<name>Burbank Bob Hope Airport</name>,"<city>Burbank</city>, <state>CA</state>",<latitude>34.2006667</latitude>,<longitude>-118.3586667</longitude>
+<shortcode>LGB</shortcode>,<name>Long Beach Airport</name>,"<city>Long Beach</city>, <state>CA</state>",<latitude>33.8177222</latitude>,<longitude>-118.1516111</longitude>
+<shortcode>OAK</shortcode>,<name>Oakland International</name>,"<city>Oakland</city>, <state>CA</state>",<latitude>37.7213056</latitude>,<longitude>-122.2207222</longitude>
+<shortcode>ONT</shortcode>,<name>LA/Ontario International</name>,"<city>Ontario</city>, <state>CA</state>",<latitude>34.056</latitude>,<longitude>-117.6011944</longitude>
+<shortcode>SAN</shortcode>,<name>San Diego International</name>,"<city>San Diego</city>, <state>CA</state>",<latitude>32.7335556</latitude>,<longitude>-117.1896667</longitude>
+<shortcode>SJC</shortcode>,<name>San Jose International</name>,"<city>San Jose</city>, <state>CA</state>",<latitude>37.3626667</latitude>,<longitude>-121.9291111</longitude>
+<shortcode>SMF</shortcode>,<name>Sacramento International</name>,"<city>Sacramento</city>, <state>CA</state>",<latitude>38.6954167</latitude>,<longitude>-121.5907778</longitude>
+<shortcode>SNA</shortcode>,<name>Orange County John Wayne</name>,"<city>Santa Ana</city>, <state>CA</state>",<latitude>33.6756667</latitude>,<longitude>-117.8682222</longitude>
+<shortcode>FAT</shortcode>,<name>Fresno Yosemite International</name>,"<city>Fresno</city>, <state>CA</state>",<latitude>36.7761944</latitude>,<longitude>-119.7181389</longitude>
+<shortcode>PSP</shortcode>,<name>Palm Springs Regional</name>,"<city>Palm Springs</city>, <state>CA</state>",<latitude>33.8296667</latitude>,<longitude>-116.5066944</longitude>
+<shortcode>SBA</shortcode>,<name>Santa Barbara Municipal</name>,"<city>Santa Barbara</city>, <state>CA</state>",<latitude>34.4261944</latitude>,<longitude>-119.8415</longitude>
+<shortcode>ACV</shortcode>,<name>Arcata-Eureka</name>,"<city>McKinleyville</city>, <state>CA</state>",<latitude>40.9781111</latitude>,<longitude>-124.1086111</longitude>
+<shortcode>BFL</shortcode>,"<name>Meadows Field, Bakersfield</name>","<city>Bakersfield</city>, <state>CA</state>",<latitude>35.4338611</latitude>,<longitude>-119.0576667</longitude>
+<shortcode>MMH</shortcode>,<name>Mammoth Yosemite</name>,"<city>Mammoth Lakes</city>, <state>CA</state>",<latitude>37.62765</latitude>,<longitude>-118.843688</longitude>
+<shortcode>MRY</shortcode>,<name>Monterey Peninsula</name>,"<city>Monterey</city>, <state>CA</state>",<latitude>36.587</latitude>,<longitude>-121.8429444</longitude>
+<shortcode>RDD</shortcode>,<name>Redding Municipal</name>,"<city>Redding</city>, <state>CA</state>",<latitude>40.509</latitude>,<longitude>-122.2933889</longitude>
+<shortcode>SBP</shortcode>,<name>San Luis Obispo County</name>,"<city>San Luis Obispo</city>, <state>CA</state>",<latitude>35.2372659</latitude>,<longitude>-120.6425974</longitude>
+<shortcode>SCK</shortcode>,<name>Stockton Regional</name>,"<city>Stockton</city>, <state>CA</state>",<latitude>37.8941667</latitude>,<longitude>-121.2383056</longitude>
+<shortcode>SMX</shortcode>,<name>Santa Maria Public</name>,"<city>Santa Maria</city>, <state>CA</state>",<latitude>34.8989167</latitude>,<longitude>-120.4574444</longitude>
+<shortcode>STS</shortcode>,<name>Sonoma County/ Santa Rosa</name>,"<city>Santa Rosa</city>, <state>CA</state>",<latitude>38.508989</latitude>,<longitude>-122.8128751</longitude>
+<shortcode>CEC</shortcode>,<name>Crescent City</name>,"<city>Crescent City</city>, <state>CA</state>",<latitude>41.7801667</latitude>,<longitude>-124.2365278</longitude>
+<shortcode>CIC</shortcode>,<name>Chico Municipal</name>,"<city>Chico</city>, <state>CA</state>",<latitude>39.7953889</latitude>,<longitude>-121.8584167</longitude>
+<shortcode>CRQ</shortcode>,<name>McClellan-Palomar</name>,"<city>Carlsbad</city>, <state>CA</state>",<latitude>33.12825</latitude>,<longitude>-117.2800833</longitude>
+<shortcode>IPL</shortcode>,<name>Imperial County</name>,"<city>Imperial</city>, <state>CA</state>",<latitude>32.8342194</latitude>,<longitude>-115.5787444</longitude>
+<shortcode>IYK</shortcode>,<name>Indian Wells Valley</name>,"<city>Inyokern</city>, <state>CA</state>",<latitude>35.6587413</latitude>,<longitude>-117.8295325</longitude>
+<shortcode>MCE</shortcode>,<name>Merced Municipal</name>,"<city>Merced</city>, <state>CA</state>",<latitude>37.28475</latitude>,<longitude>-120.5139167</longitude>
+<shortcode>MOD</shortcode>,<name>Modesto City County</name>,"<city>Modesto</city>, <state>CA</state>",<latitude>37.6258172</latitude>,<longitude>-120.9544214</longitude>
+<shortcode>OXR</shortcode>,<name>Oxnard</name>,"<city>Oxnard</city>, <state>CA</state>",<latitude>34.2008056</latitude>,<longitude>-119.2072222</longitude>
+<shortcode>PMD</shortcode>,<name>Palmdale Regional</name>,"<city>Palmdale</city>, <state>CA</state>",<latitude>34.6293889</latitude>,<longitude>-118.0845528</longitude>
+<shortcode>VIS</shortcode>,<name>Visalia Municipal</name>,"<city>Visalia</city>, <state>CA</state>",<latitude>36.3186667</latitude>,<longitude>-119.3928889</longitude>
+<shortcode>DEN</shortcode>,<name>Denver International</name>,"<city>Denver</city>, <state>CO</state>",<latitude>39.8494</latitude>,<longitude>-104.67372</longitude>
+<shortcode>COS</shortcode>,<name>Colorado Springs Municipal</name>,"<city>Colorado Springs</city>, <state>CO</state>",<latitude>38.7974</latitude>,<longitude>-104.7009</longitude>
+<shortcode>ASE</shortcode>,<name>Aspen Pitkin County Sardy Field</name>,"<city>Aspen</city>, <state>CO</state>",<latitude>39.2231667</latitude>,<longitude>-106.8688611</longitude>
+<shortcode>DRO</shortcode>,<name>Durango-La Plata County</name>,"<city>Durango</city>, <state>CO</state>",<latitude>37.1515167</latitude>,<longitude>-107.7537692</longitude>
+<shortcode>EGE</shortcode>,<name>Eagle County Regional</name>,"<city>Eagle</city>, <state>CO</state>",<latitude>39.6414802</latitude>,<longitude>-106.9174962</longitude>
+<shortcode>FNL</shortcode>,<name>Fort Collins-Loveland Municipal</name>,"<city>Loveland</city>, <state>CO</state>",<latitude>40.4518272</latitude>,<longitude>-105.0113356</longitude>
+<shortcode>GJT</shortcode>,<name>Grand Junction Regional</name>,"<city>Grand Junction</city>, <state>CO</state>",<latitude>39.1224125</latitude>,<longitude>-108.5267347</longitude>
+<shortcode>GUC</shortcode>,<name>Gunnison County</name>,"<city>Gunnison</city>, <state>CO</state>",<latitude>38.5339444</latitude>,<longitude>-106.9330278</longitude>
+<shortcode>HDN</shortcode>,<name>Yampa Valley</name>,"<city>Hayden</city>, <state>CO</state>",<latitude>40.4811667</latitude>,<longitude>-107.2176667</longitude>
+<shortcode>MTJ</shortcode>,<name>Montrose County</name>,"<city>Montrose</city>, <state>CO</state>",<latitude>38.5097958</latitude>,<longitude>-107.8942433</longitude>
+<shortcode>ALS</shortcode>,<name>San Luis Valley/Bergman Field</name>,"<city>Alamosa</city>, <state>CO</state>",<latitude>37.4349167</latitude>,<longitude>-105.8665556</longitude>
+<shortcode>CEZ</shortcode>,<name>Cortez Municipal</name>,"<city>Cortez</city>, <state>CO</state>",<latitude>37.303</latitude>,<longitude>-108.6280556</longitude>
+<shortcode>PUB</shortcode>,<name>Pueblo Memorial</name>,"<city>Pueblo</city>, <state>CO</state>",<latitude>38.2891378</latitude>,<longitude>-104.4965016</longitude>
+<shortcode>TEX</shortcode>,<name>Telluride Regional</name>,"<city>Telluride</city>, <state>CO</state>",<latitude>37.9537586</latitude>,<longitude>-107.90848</longitude>
+<shortcode>BDL</shortcode>,<name>Bradley International</name>,"<city>Windsor Locks</city>, <state>CT</state>",<latitude>41.9388889</latitude>,<longitude>-72.6832222</longitude>
+<shortcode>HVN</shortcode>,<name>Tweed - New Haven</name>,"<city>New Haven</city>, <state>CT</state>",<latitude>41.26375</latitude>,<longitude>-72.8868056</longitude>
+<shortcode>FLL</shortcode>,<name>Ft. Lauderdale-Hollywood International</name>,"<city>Fort Lauderdale</city>, <state>FL</state>",<latitude>26.0725833</latitude>,<longitude>-80.15275</longitude>
+<shortcode>MCO</shortcode>,<name>Orlando International</name>,"<city>Orlando</city>, <state>FL</state>",<latitude>28.431374</latitude>,<longitude>-81.30839</longitude>
+<shortcode>MIA</shortcode>,<name>Miami International</name>,"<city>Miami</city>, <state>FL</state>",<latitude>25.79498</latitude>,<longitude>-80.27849</longitude>
+<shortcode>JAX</shortcode>,<name>Jacksonville International</name>,"<city>Jacksonville</city>, <state>FL</state>",<latitude>30.4940556</latitude>,<longitude>-81.6878611</longitude>
+<shortcode>PBI</shortcode>,<name>West Palm Beach International</name>,"<city>West Palm Beach</city>, <state>FL</state>",<latitude>26.6831606</latitude>,<longitude>-80.0955892</longitude>
+<shortcode>RSW</shortcode>,<name>Southwest Florida International</name>,"<city>Fort Myers</city>, <state>FL</state>",<latitude>26.5361667</latitude>,<longitude>-81.7551667</longitude>
+<shortcode>TPA</shortcode>,<name>Tampa International</name>,"<city>Tampa</city>, <state>FL</state>",<latitude>27.9754722</latitude>,<longitude>-82.53325</longitude>
+<shortcode>DAB</shortcode>,<name>Daytona Beach International</name>,"<city>Daytona Beach</city>, <state>FL</state>",<latitude>29.1799167</latitude>,<longitude>-81.0580556</longitude>
+<shortcode>EYW</shortcode>,<name>Key West International</name>,"<city>Key West</city>, <state>FL</state>",<latitude>24.5561111</latitude>,<longitude>-81.7595556</longitude>
+<shortcode>MLB</shortcode>,<name>Melbourne International</name>,"<city>Melbourne</city>, <state>FL</state>",<latitude>28.1027528</latitude>,<longitude>-80.6452569</longitude>
+<shortcode>PIE</shortcode>,<name>St Petersburg-Clearwater International</name>,"<city>Clearwater</city>, <state>FL</state>",<latitude>27.91</latitude>,<longitude>-82.6874167</longitude>
+<shortcode>PNS</shortcode>,<name>Pensacola Regional</name>,"<city>Pensacola</city>, <state>FL</state>",<latitude>30.4734256</latitude>,<longitude>-87.1866122</longitude>
+<shortcode>SFB</shortcode>,<name>Orlando Sanford</name>,"<city>Sanford</city>, <state>FL</state>",<latitude>28.776701</latitude>,<longitude>-81.2355219</longitude>
+<shortcode>SRQ</shortcode>,<name>Sarasota-Bradenton</name>,"<city>Sarasota</city>, <state>FL</state>",<latitude>27.3954444</latitude>,<longitude>-82.5543889</longitude>
+<shortcode>TLH</shortcode>,<name>Tallahassee Regional</name>,"<city>Tallahassee</city>, <state>FL</state>",<latitude>30.3965278</latitude>,<longitude>-84.3503333</longitude>
+<shortcode>VPS</shortcode>,<name>Okaloosa County Air Terminal</name>,"<city>Eglin Air Force Base</city>, <state>FL</state>",<latitude>30.4833333</latitude>,<longitude>-86.5253333</longitude>
+<shortcode>GNV</shortcode>,<name>Gainesville Regional</name>,"<city>Gainesville</city>, <state>FL</state>",<latitude>29.6900556</latitude>,<longitude>-82.2717778</longitude>
+<shortcode>PFN</shortcode>,<name>Panama City-Bay County International</name>,"<city>Panama City</city>, <state>FL</state>",<latitude>30.2120833</latitude>,<longitude>-85.6828056</longitude>
+<shortcode>APF</shortcode>,<name>Naples Municipal</name>,"<city>Naples</city>, <state>FL</state>",<latitude>26.1522874</latitude>,<longitude>-81.7757933</longitude>
+<shortcode>ATL</shortcode>,<name>Hartsfield-Jackson Atlanta International</name>,"<city>Atlanta</city>, <state>GA</state>",<latitude>33.63985</latitude>,<longitude>-84.4439</longitude>
+<shortcode>SAV</shortcode>,<name>Savannah / Hilton Head International</name>,"<city>Savannah</city>, <state>GA</state>",<latitude>32.1275833</latitude>,<longitude>-81.2021389</longitude>
+<shortcode>AGS</shortcode>,<name>Augusta Regional</name>,"<city>Augusta</city>, <state>GA</state>",<latitude>33.3699444</latitude>,<longitude>-81.9645</longitude>
+<shortcode>CSG</shortcode>,<name>Columbus Airport</name>,"<city>Columbus</city>, <state>GA</state>",<latitude>32.5163333</latitude>,<longitude>-84.9388611</longitude>
+<shortcode>MCN</shortcode>,<name>Middle Georgia Regional</name>,"<city>Macon</city>, <state>GA</state>",<latitude>32.69285</latitude>,<longitude>-83.6492111</longitude>
+<shortcode>VLD</shortcode>,<name>Valdosta Municipal</name>,"<city>Valdosta</city>, <state>GA</state>",<latitude>30.7813722</latitude>,<longitude>-83.2762194</longitude>
+<shortcode>ABY</shortcode>,<name>Southwest Georgia Regional</name>,"<city>Albany</city>, <state>GA</state>",<latitude>31.535515</latitude>,<longitude>-84.1944733</longitude>
+<shortcode>AHN</shortcode>,<name>Athens/ Ben Epps</name>,"<city>Athens</city>, <state>GA</state>",<latitude>33.9485953</latitude>,<longitude>-83.3263469</longitude>
+<shortcode>BQK</shortcode>,<name>Brunswick Golden Isles Airport</name>,"<city>Brunswick</city>, <state>GA</state>",<latitude>31.2590344</latitude>,<longitude>-81.4663156</longitude>
+<shortcode>HNL</shortcode>,<name>Honolulu International</name>,"<city>Honolulu</city>, <state>HI</state>",<latitude>21.3186813</latitude>,<longitude>-157.9224287</longitude>
+<shortcode>KOA</shortcode>,<name>Keahole</name>,"<city>Kailua-Kona</city>, <state>HI</state>",<latitude>19.7387658</latitude>,<longitude>-156.0456314</longitude>
+<shortcode>LIH</shortcode>,<name>Lihue</name>,"<city>Lihue</city>, <state>HI</state>",<latitude>21.975983</latitude>,<longitude>-159.338958</longitude>
+<shortcode>OGG</shortcode>,<name>Kahului</name>,"<city>Kahului, Maui</city>, <state>HI</state>",<latitude>20.8986497</latitude>,<longitude>-156.4304579</longitude>
+<shortcode>ITO</shortcode>,<name>Hilo International</name>,"<city>Hilo</city>, <state>HI</state>",<latitude>19.720263</latitude>,<longitude>-155.0484701</longitude>
+<shortcode>JHM</shortcode>,<name>Kapalua</name>,"<city>Kapalua</city>, <state>HI</state>",<latitude>20.9629364</latitude>,<longitude>-156.6730317</longitude>
+<shortcode>LNY</shortcode>,<name>Lanai</name>,"<city>Lanai City</city>, <state>HI</state>",<latitude>20.7856111</latitude>,<longitude>-156.9514181</longitude>
+<shortcode>MKK</shortcode>,<name>Molokai</name>,"<city>Hoolehua</city>, <state>HI</state>",<latitude>21.1528858</latitude>,<longitude>-157.0962561</longitude>
+<shortcode>BOI</shortcode>,<name>Boise Air Terminal/Gowen Field</name>,"<city>Boise</city>, <state>ID</state>",<latitude>43.5643611</latitude>,<longitude>-116.2228611</longitude>
+<shortcode>IDA</shortcode>,<name>Idaho Falls Municipal</name>,"<city>Idaho Falls</city>, <state>ID</state>",<latitude>43.5137222</latitude>,<longitude>-112.07075</longitude>
+<shortcode>LWS</shortcode>,<name>Lewiston - Nez Perce County</name>,"<city>Lewiston</city>, <state>ID</state>",<latitude>46.3745</latitude>,<longitude>-117.0153889</longitude>
+<shortcode>PIH</shortcode>,<name>Pocatello Regional</name>,"<city>Pocatello</city>, <state>ID</state>",<latitude>42.9098056</latitude>,<longitude>-112.5959167</longitude>
+<shortcode>SUN</shortcode>,<name>Friedman Memorial</name>,"<city>Hailey</city>, <state>ID</state>",<latitude>43.5037789</latitude>,<longitude>-114.2955528</longitude>
+<shortcode>TWF</shortcode>,<name>Magic Valley Regional</name>,"<city>Twin Falls</city>, <state>ID</state>",<latitude>42.4818056</latitude>,<longitude>-114.48775</longitude>
+<shortcode>ORD</shortcode>,<name>Chicago-O'Hare International</name>,"<city>Chicago</city>, <state>IL</state>",<latitude>41.976172</latitude>,<longitude>-87.903266</longitude>
+<shortcode>MDW</shortcode>,<name>Chicago Midway</name>,"<city>Chicago</city>, <state>IL</state>",<latitude>41.78811</latitude>,<longitude>-87.74122</longitude>
+<shortcode>MLI</shortcode>,<name>Quad City</name>,"<city>Moline</city>, <state>IL</state>",<latitude>41.4482856</latitude>,<longitude>-90.5075201</longitude>
+<shortcode>BLV</shortcode>,<name>Mid-America</name>,"<city>Mascoutah</city>, <state>IL</state>",<latitude>38.5451667</latitude>,<longitude>-89.8351944</longitude>
+<shortcode>BMI</shortcode>,<name>Bloomington-Normal</name>,"<city>Bloomington</city>, <state>IL</state>",<latitude>40.4771111</latitude>,<longitude>-88.9159167</longitude>
+<shortcode>CMI</shortcode>,<name>University Of Illinois-Willard</name>,"<city>Savoy</city>, <state>IL</state>",<latitude>40.0388333</latitude>,<longitude>-88.2778056</longitude>
+<shortcode>PIA</shortcode>,<name>General Wayne A. Downing Peoria Intl.</name>,"<city>Peoria</city>, <state>IL</state>",<latitude>40.6642014</latitude>,<longitude>-89.6932578</longitude>
+<shortcode>RFD</shortcode>,<name>Greater Rockford</name>,"<city>Rockford</city>, <state>IL</state>",<latitude>42.1953611</latitude>,<longitude>-89.0972222</longitude>
+<shortcode>SPI</shortcode>,<name>Abraham Lincoln Capital</name>,"<city>Springfield</city>, <state>IL</state>",<latitude>39.8442099</latitude>,<longitude>-89.6780898</longitude>
+<shortcode>DEC</shortcode>,<name>Decatur</name>,"<city>Decatur</city>, <state>IL</state>",<latitude>39.8345625</latitude>,<longitude>-88.8656892</longitude>
+<shortcode>MWA</shortcode>,<name>Williamson County</name>,"<city>Marion</city>, <state>IL</state>",<latitude>37.7549722</latitude>,<longitude>-89.0110833</longitude>
+<shortcode>UIN</shortcode>,<name>Quincy Municipal</name>,"<city>Quincy</city>, <state>IL</state>",<latitude>39.9430178</latitude>,<longitude>-91.1944637</longitude>
+<shortcode>IND</shortcode>,<name>Indianapolis International</name>,"<city>Indianapolis</city>, <state>IN</state>",<latitude>39.714351</latitude>,<longitude>-86.29847</longitude>
+<shortcode>FWA</shortcode>,<name>Ft. Wayne Municipal</name>,"<city>Ft. Wayne</city>, <state>IN</state>",<latitude>40.9784722</latitude>,<longitude>-85.1951667</longitude>
+<shortcode>SBN</shortcode>,<name>South Bend Regional</name>,"<city>South Bend</city>, <state>IN</state>",<latitude>41.7082222</latitude>,<longitude>-86.3173333</longitude>
+<shortcode>EVV</shortcode>,<name>Evansville Regional</name>,"<city>Evansville</city>, <state>IN</state>",<latitude>38.0369963</latitude>,<longitude>-87.532365</longitude>
+<shortcode>GYY</shortcode>,<name>Gary Regional</name>,"<city>Gary</city>, <state>IN</state>",<latitude>41.6162778</latitude>,<longitude>-87.4127778</longitude>
+<shortcode>CID</shortcode>,<name>Eastern Iowa</name>,"<city>Cedar Rapids</city>, <state>IA</state>",<latitude>41.88942</latitude>,<longitude>-91.70033</longitude>
+<shortcode>DSM</shortcode>,<name>Des Moines International</name>,"<city>Des Moines</city>, <state>IA</state>",<latitude>41.5326</latitude>,<longitude>-93.6486</longitude>
+<shortcode>SUX</shortcode>,<name>Colonel Bud Day Field</name>,"<city>Sioux City</city>, <state>IA</state>",<latitude>42.4025</latitude>,<longitude>-96.384167</longitude>
+<shortcode>ALO</shortcode>,<name>Waterloo Municipal</name>,"<city>Waterloo</city>, <state>IA</state>",<latitude>42.5570814</latitude>,<longitude>-92.4003436</longitude>
+<shortcode>BRL</shortcode>,<name>Southeast Iowa Regional</name>,"<city>Burlington</city>, <state>IA</state>",<latitude>40.783225</latitude>,<longitude>-91.1255056</longitude>
+<shortcode>DBQ</shortcode>,<name>Dubuque Regional</name>,"<city>Dubuque</city>, <state>IA</state>",<latitude>42.402</latitude>,<longitude>-90.7094722</longitude>
+<shortcode>FOD</shortcode>,<name>Fort Dodge Municipal</name>,"<city>Fort Dodge</city>, <state>IA</state>",<latitude>42.5511994</latitude>,<longitude>-94.1918403</longitude>
+<shortcode>MCW</shortcode>,<name>Mason City Municipal</name>,"<city>Mason City</city>, <state>IA</state>",<latitude>43.1577925</latitude>,<longitude>-93.3312606</longitude>
+<shortcode>ICT</shortcode>,<name>Wichita Dwight D. Eisenhower National Airport</name>,"<city>Wichita</city>, <state>KS</state>",<latitude>37.6499444</latitude>,<longitude>-97.4330556</longitude>
+<shortcode>FOE</shortcode>,<name>Forbes Field</name>,"<city>Topeka</city>, <state>KS</state>",<latitude>38.9509444</latitude>,<longitude>-95.6636111</longitude>
+<shortcode>DDC</shortcode>,<name>Dodge City Regional</name>,"<city>Dodge City</city>, <state>KS</state>",<latitude>37.7631217</latitude>,<longitude>-99.9654241</longitude>
+<shortcode>GBD</shortcode>,<name>Great Bend Municipal</name>,"<city>Great Bend</city>, <state>KS</state>",<latitude>38.34425</latitude>,<longitude>-98.8591944</longitude>
+<shortcode>GCK</shortcode>,<name>Garden City Municipal</name>,"<city>Garden City</city>, <state>KS</state>",<latitude>37.9275278</latitude>,<longitude>-100.7244167</longitude>
+<shortcode>HYS</shortcode>,<name>Hays Regional</name>,"<city>Hays</city>, <state>KS</state>",<latitude>38.8422222</latitude>,<longitude>-99.2731667</longitude>
+<shortcode>LBL</shortcode>,<name>Liberal Municipal</name>,"<city>Liberal</city>, <state>KS</state>",<latitude>37.0442222</latitude>,<longitude>-100.9598611</longitude>
+<shortcode>MHK</shortcode>,<name>Manhattan Regional</name>,"<city>Manhattan</city>, <state>KS</state>",<latitude>39.1409722</latitude>,<longitude>-96.6708333</longitude>
+<shortcode>SLN</shortcode>,<name>Salina Municipal</name>,"<city>Salina</city>, <state>KS</state>",<latitude>38.7909664</latitude>,<longitude>-97.6521697</longitude>
+<shortcode>CVG</shortcode>,<name>Cincinnati/Northern Kentucky International</name>,"<city>Hebron</city>, <state>KY</state>",<latitude>39.0488367</latitude>,<longitude>-84.6678222</longitude>
+<shortcode>SDF</shortcode>,<name>Louisville International</name>,"<city>Louisville</city>, <state>KY</state>",<latitude>38.1740858</latitude>,<longitude>-85.7364989</longitude>
+<shortcode>LEX</shortcode>,<name>Blue Grass</name>,"<city>Lexington</city>, <state>KY</state>",<latitude>38.0365</latitude>,<longitude>-84.6058889</longitude>
+<shortcode>OWB</shortcode>,<name>Owensboro Davies County</name>,"<city>Owensboro</city>, <state>KY</state>",<latitude>37.7388342</latitude>,<longitude>-87.1668286</longitude>
+<shortcode>PAH</shortcode>,<name>Barkley Regional</name>,"<city>West Paducah</city>, <state>KY</state>",<latitude>37.0602875</latitude>,<longitude>-88.7729583</longitude>
+<shortcode>SME</shortcode>,<name>Lake Cumberland Regional</name>,"<city>Somerset</city>, <state>KY</state>",<latitude>37.054722</latitude>,<longitude>-84.614166</longitude>
+<shortcode>MSY</shortcode>,<name>Louis Armstrong New Orleans International</name>,"<city>Kenner</city>, <state>LA</state>",<latitude>29.9849</latitude>,<longitude>-90.2568</longitude>
+<shortcode>BTR</shortcode>,<name>Baton Rouge Metropolitan</name>,"<city>Baton Rouge</city>, <state>LA</state>",<latitude>30.53279</latitude>,<longitude>-91.15659</longitude>
+<shortcode>SHV</shortcode>,<name>Shreveport Regional</name>,"<city>Shreveport</city>, <state>LA</state>",<latitude>32.45464</latitude>,<longitude>-93.82855</longitude>
+<shortcode>LFT</shortcode>,<name>Lafayette Regional</name>,"<city>Lafayette</city>, <state>LA</state>",<latitude>30.20525</latitude>,<longitude>-91.9876111</longitude>
+<shortcode>AEX</shortcode>,<name>Alexandria International</name>,"<city>Alexandria</city>, <state>LA</state>",<latitude>31.32309</latitude>,<longitude>-92.54186</longitude>
+<shortcode>LCH</shortcode>,<name>Lake Charles Regional</name>,"<city>Lake Charles</city>, <state>LA</state>",<latitude>30.1260833</latitude>,<longitude>-93.2234167</longitude>
+<shortcode>MLU</shortcode>,<name>Monroe Regional</name>,"<city>Monroe</city>, <state>LA</state>",<latitude>32.5108656</latitude>,<longitude>-92.0376878</longitude>
+<shortcode>BGR</shortcode>,<name>Bangor International</name>,"<city>Bangor</city>, <state>ME</state>",<latitude>44.8074444</latitude>,<longitude>-68.8281389</longitude>
+<shortcode>PWM</shortcode>,<name>Portland International Jetport</name>,"<city>Portland</city>, <state>ME</state>",<latitude>43.6461667</latitude>,<longitude>-70.3092778</longitude>
+<shortcode>AUG</shortcode>,<name>Augusta State</name>,"<city>Augusta</city>, <state>ME</state>",<latitude>44.3206497</latitude>,<longitude>-69.7973181</longitude>
+<shortcode>BHB</shortcode>,<name>Hancock County</name>,"<city>Trenton</city>, <state>ME</state>",<latitude>44.4497689</latitude>,<longitude>-68.3615653</longitude>
+<shortcode>PQI</shortcode>,<name>Northern Maine Regional</name>,"<city>Presque Isle</city>, <state>ME</state>",<latitude>46.6889722</latitude>,<longitude>-68.0448056</longitude>
+<shortcode>RKD</shortcode>,<name>Knox County Regional</name>,"<city>Rockland</city>, <state>ME</state>",<latitude>44.0600744</latitude>,<longitude>-69.0992567</longitude>
+<shortcode>BWI</shortcode>,<name>Baltimore-Washington International</name>,"<city>BWI Airport</city>, <state>MD</state>",<latitude>39.17688</latitude>,<longitude>-76.67002</longitude>
+<shortcode>HGR</shortcode>,<name>Hagerstown Regional</name>,"<city>Hagerstown</city>, <state>MD</state>",<latitude>39.707779</latitude>,<longitude>-77.729446</longitude>
+<shortcode>SBY</shortcode>,<name>Salisbury / Wicomico County Regional</name>,"<city>Salisbury</city>, <state>MD</state>",<latitude>38.3405261</latitude>,<longitude>-75.5102881</longitude>
+<shortcode>BOS</shortcode>,<name>Logan International</name>,"<city>East Boston</city>, <state>MA</state>",<latitude>42.36657</latitude>,<longitude>-71.01696</longitude>
+<shortcode>ACK</shortcode>,<name>Nantucket Memorial</name>,"<city>Nantucket</city>, <state>MA</state>",<latitude>41.2530519</latitude>,<longitude>-70.0601814</longitude>
+<shortcode>BED</shortcode>,<name>Hanscom Field</name>,"<city>Bedford</city>, <state>MA</state>",<latitude>42.4699531</latitude>,<longitude>-71.28903</longitude>
+<shortcode>CEF</shortcode>,<name>Westover Metropolitan</name>,"<city>Chicopee</city>, <state>MA</state>",<latitude>42.1940139</latitude>,<longitude>-72.5347833</longitude>
+<shortcode>HYA</shortcode>,<name>Barnstable Municipal</name>,"<city>Hyannis</city>, <state>MA</state>",<latitude>41.6693364</latitude>,<longitude>-70.2803558</longitude>
+<shortcode>MVY</shortcode>,<name>Martha's Vineyard</name>,"<city>Vineyard Haven</city>, <state>MA</state>",<latitude>41.3930278</latitude>,<longitude>-70.6143333</longitude>
+<shortcode>ORH</shortcode>,<name>Worcester Municipal</name>,"<city>Worcester</city>, <state>MA</state>",<latitude>42.267223</latitude>,<longitude>-71.875832</longitude>
+<shortcode>PVC</shortcode>,<name>Provincetown Minicipal</name>,"<city>Provincetown</city>, <state>MA</state>",<latitude>42.0719983</latitude>,<longitude>-70.2213767</longitude>
+<shortcode>DTW</shortcode>,<name>Detroit Metropolitan Wayne County</name>,"<city>Detroit</city>, <state>MI</state>",<latitude>42.2124444</latitude>,<longitude>-83.3533889</longitude>
+<shortcode>FNT</shortcode>,<name>Bishop International</name>,"<city>Flint</city>, <state>MI</state>",<latitude>42.9654167</latitude>,<longitude>-83.7436667</longitude>
+<shortcode>GRR</shortcode>,<name>Kent County International</name>,"<city>Grand Rapids</city>, <state>MI</state>",<latitude>42.8808333</latitude>,<longitude>-85.5228056</longitude>
+<shortcode>LAN</shortcode>,<name>Capital City</name>,"<city>Lansing</city>, <state>MI</state>",<latitude>42.7786683</latitude>,<longitude>-84.5866866</longitude>
+<shortcode>AZO</shortcode>,<name>Kalamazoo Municipal</name>,"<city>Kalamazoo</city>, <state>MI</state>",<latitude>42.2343889</latitude>,<longitude>-85.5515556</longitude>
+<shortcode>MBS</shortcode>,<name>MBS International</name>,"<city>Freeland</city>, <state>MI</state>",<latitude>43.5329167</latitude>,<longitude>-84.0796389</longitude>
+<shortcode>TVC</shortcode>,<name>Cherry Capital</name>,"<city>Traverse City</city>, <state>MI</state>",<latitude>44.7416389</latitude>,<longitude>-85.5823611</longitude>
+<shortcode>APN</shortcode>,<name>Alpena County Regional</name>,"<city>Alpena</city>, <state>MI</state>",<latitude>45.0780675</latitude>,<longitude>-83.5602858</longitude>
+<shortcode>CIU</shortcode>,<name>Chippewa County International</name>,"<city>Kincheloe</city>, <state>MI</state>",<latitude>46.25075</latitude>,<longitude>-84.4723889</longitude>
+<shortcode>CMX</shortcode>,<name>Houghton County Memorial</name>,"<city>Calumet</city>, <state>MI</state>",<latitude>47.1684172</latitude>,<longitude>-88.4890608</longitude>
+<shortcode>ESC</shortcode>,<name>Delta County</name>,"<city>Escanaba</city>, <state>MI</state>",<latitude>45.7226667</latitude>,<longitude>-87.0937222</longitude>
+<shortcode>IMT</shortcode>,<name>Ford</name>,"<city>Kingsford</city>, <state>MI</state>",<latitude>45.8183611</latitude>,<longitude>-88.1145556</longitude>
+<shortcode>IWD</shortcode>,<name>Gogebic County</name>,"<city>Ironwood</city>, <state>MI</state>",<latitude>46.5274747</latitude>,<longitude>-90.1313967</longitude>
+<shortcode>MBL</shortcode>,<name>Manistee County Blacker</name>,"<city>Manistee</city>, <state>MI</state>",<latitude>44.2724722</latitude>,<longitude>-86.2468889</longitude>
+<shortcode>MKG</shortcode>,<name>Muskegon County International</name>,"<city>Muskegon</city>, <state>MI</state>",<latitude>43.1676717</latitude>,<longitude>-86.2354387</longitude>
+<shortcode>PLN</shortcode>,<name>Pellston Regional</name>,"<city>Pellston</city>, <state>MI</state>",<latitude>45.5709167</latitude>,<longitude>-84.7967222</longitude>
+<shortcode>SAW</shortcode>,<name>Sawyer International</name>,"<city>Gwinn</city>, <state>MI</state>",<latitude>46.3536389</latitude>,<longitude>-87.3953611</longitude>
+<shortcode>HIB</shortcode>,<name>Chisholm-Hibbing Municipal</name>,"<city>Hibbing</city>, <state>MN</state>",<latitude>47.3865992</latitude>,<longitude>-92.8389933</longitude>
+<shortcode>MSP</shortcode>,<name>Minneapolis-St. Paul International</name>,"<city>St. Paul</city>, <state>MN</state>",<latitude>44.88105</latitude>,<longitude>-93.20286</longitude>
+<shortcode>DLH</shortcode>,<name>Duluth International</name>,"<city>Duluth</city>, <state>MN</state>",<latitude>46.8420833</latitude>,<longitude>-92.1936389</longitude>
+<shortcode>RST</shortcode>,<name>Rochester International</name>,"<city>Rochester</city>, <state>MN</state>",<latitude>43.9082778</latitude>,<longitude>-92.5000278</longitude>
+<shortcode>BJI</shortcode>,<name>Bemidji City-County</name>,"<city>Bemidji</city>, <state>MN</state>",<latitude>47.5107222</latitude>,<longitude>-94.9347222</longitude>
+<shortcode>BRD</shortcode>,<name>Brainerd Lakes Regional</name>,"<city>Brainerd</city>, <state>MN</state>",<latitude>46.40175</latitude>,<longitude>-94.1355556</longitude>
+<shortcode>INL</shortcode>,<name>Falls International</name>,"<city>International Falls</city>, <state>MN</state>",<latitude>48.5655833</latitude>,<longitude>-93.4021667</longitude>
+<shortcode>STC</shortcode>,<name>St. Cloud Regional</name>,"<city>St. Cloud</city>, <state>MN</state>",<latitude>45.5465556</latitude>,<longitude>-94.0598889</longitude>
+<shortcode>TVF</shortcode>,<name>Thief River Falls Regional</name>,"<city>Thief River Falls</city>, <state>MN</state>",<latitude>48.0656667</latitude>,<longitude>-96.185</longitude>
+<shortcode>GPT</shortcode>,<name>Gulfport Bilox Regional</name>,"<city>Gulfport</city>, <state>MS</state>",<latitude>30.4072688</latitude>,<longitude>-89.0700968</longitude>
+<shortcode>JAN</shortcode>,<name>Jackson International</name>,"<city>Jackson</city>, <state>MS</state>",<latitude>32.3111667</latitude>,<longitude>-90.0758889</longitude>
+<shortcode>UTA</shortcode>,<name>Tunica Municipal</name>,"<city>Tunica</city>, <state>MS</state>",<latitude>34.6850556</latitude>,<longitude>-90.3477778</longitude>
+<shortcode>GLH</shortcode>,<name>Greenville Municipal</name>,"<city>Greenville</city>, <state>MS</state>",<latitude>33.4828811</latitude>,<longitude>-90.9856139</longitude>
+<shortcode>GTR</shortcode>,<name>Golden Triangle Regional</name>,"<city>Columbus</city>, <state>MS</state>",<latitude>33.4503333</latitude>,<longitude>-88.5913611</longitude>
+<shortcode>MEI</shortcode>,<name>Key Field</name>,"<city>Meridian</city>, <state>MS</state>",<latitude>32.3326244</latitude>,<longitude>-88.7518679</longitude>
+<shortcode>PIB</shortcode>,<name>Pine-belt Regional</name>,"<city>Moselle</city>, <state>MS</state>",<latitude>31.4671389</latitude>,<longitude>-89.3370556</longitude>
+<shortcode>TUP</shortcode>,<name>CD Lemons Municipal</name>,"<city>Tupelo</city>, <state>MS</state>",<latitude>34.2681083</latitude>,<longitude>-88.769895</longitude>
+<shortcode>STL</shortcode>,<name>Lambert St. Louis International</name>,"<city>St Louis</city>, <state>MO</state>",<latitude>38.743</latitude>,<longitude>-90.3662</longitude>
+<shortcode>MCI</shortcode>,<name>Kansas City International</name>,"<city>Kansas City</city>, <state>MO</state>",<latitude>39.2975</latitude>,<longitude>-94.7162</longitude>
+<shortcode>SGF</shortcode>,<name>Springfield-Branson National</name>,"<city>Springfield</city>, <state>MO</state>",<latitude>37.2385</latitude>,<longitude>-93.3971</longitude>
+<shortcode>CGI</shortcode>,<name>Cape Girardeau Regional</name>,"<city>Cape Girardeau</city>, <state>MO</state>",<latitude>37.2268</latitude>,<longitude>-89.5638</longitude>
+<shortcode>COU</shortcode>,<name>Columbia Regional</name>,"<city>Columbia</city>, <state>MO</state>",<latitude>38.8171</latitude>,<longitude>-92.2223</longitude>
+<shortcode>IRK</shortcode>,<name>Kirksville Regional</name>,"<city>Kirksville</city>, <state>MO</state>",<latitude>40.0932</latitude>,<longitude>-92.5414</longitude>
+<shortcode>JLN</shortcode>,<name>Joplin Regional</name>,"<city>Joplin</city>, <state>MO</state>",<latitude>37.1572</latitude>,<longitude>-94.5013</longitude>
+<shortcode>TBN</shortcode>,<name>Waynesville St. Robert Regional Forney Field</name>,"<city>Ft. Leonard Wood</city>, <state>MO</state>",<latitude>37.7329</latitude>,<longitude>-92.137</longitude>
+<shortcode>BTM</shortcode>,<name>Bert Mooney</name>,"<city>Butte</city>, <state>MT</state>",<latitude>45.9548056</latitude>,<longitude>-112.4974722</longitude>
+<shortcode>MLS</shortcode>,<name>Frank Wiley Field</name>,"<city>Miles City</city>, <state>MT</state>",<latitude>46.4279722</latitude>,<longitude>-105.88625</longitude>
+<shortcode>OLF</shortcode>,<name>L. M. Clayton / Wolf Point</name>,"<city>Wolf Point</city>, <state>MT</state>",<latitude>48.0945178</latitude>,<longitude>-105.5750536</longitude>
+<shortcode>BIL</shortcode>,<name>Billings Logan</name>,"<city>Billings</city>, <state>MT</state>",<latitude>45.8035</latitude>,<longitude>-108.53709</longitude>
+<shortcode>BZN</shortcode>,<name>Gallatin Field</name>,"<city>Belgrade</city>, <state>MT</state>",<latitude>45.77596</latitude>,<longitude>-111.1582</longitude>
+<shortcode>MSO</shortcode>,<name>Missoula International</name>,"<city>Missoula</city>, <state>MT</state>",<latitude>46.91926</latitude>,<longitude>-114.0836</longitude>
+<shortcode>GPI</shortcode>,<name>Glacier Park International</name>,"<city>Kalispell</city>, <state>MT</state>",<latitude>48.308</latitude>,<longitude>-114.2519</longitude>
+<shortcode>GTF</shortcode>,<name>Great Falls International</name>,"<city>Great Falls</city>, <state>MT</state>",<latitude>47.4826539</latitude>,<longitude>-111.37061</longitude>
+<shortcode>HLN</shortcode>,<name>Helena Regional</name>,"<city>Helena</city>, <state>MT</state>",<latitude>46.6068056</latitude>,<longitude>-111.98275</longitude>
+<shortcode>GDV</shortcode>,<name>Dawson Community</name>,"<city>Dawson County</city>, <state>MT</state>",<latitude>47.1387187</latitude>,<longitude>-104.8071977</longitude>
+<shortcode>GGW</shortcode>,<name>Glasgow Intl / Wokal Field</name>,"<city>Glasgow</city>, <state>MT</state>",<latitude>48.2125</latitude>,<longitude>-106.6147222</longitude>
+<shortcode>HVR</shortcode>,<name>Havre City-County</name>,"<city>Havre</city>, <state>MT</state>",<latitude>48.5429722</latitude>,<longitude>-109.7623333</longitude>
+<shortcode>LWT</shortcode>,<name>Lewistown Municipal</name>,"<city>Lewistown</city>, <state>MT</state>",<latitude>47.04925</latitude>,<longitude>-109.4666944</longitude>
+<shortcode>SDY</shortcode>,<name>Sidney-Richland Regional</name>,"<city>Sidney</city>, <state>MT</state>",<latitude>47.7068611</latitude>,<longitude>-104.1925556</longitude>
+<shortcode>WYS</shortcode>,<name>West Yellowstone</name>,"<city>West Yellowstone</city>, <state>MT</state>",<latitude>44.6883889</latitude>,<longitude>-111.1176389</longitude>
+<shortcode>OMA</shortcode>,<name>Eppley Airfield</name>,"<city>Omaha</city>, <state>NE</state>",<latitude>41.2997</latitude>,<longitude>-95.8998</longitude>
+<shortcode>LNK</shortcode>,<name>Lincoln Municipal</name>,"<city>Lincoln</city>, <state>NE</state>",<latitude>40.84672</latitude>,<longitude>-96.75526</longitude>
+<shortcode>AIA</shortcode>,<name>Alliance Municipal</name>,"<city>Alliance</city>, <state>NE</state>",<latitude>42.0532222</latitude>,<longitude>-102.8037778</longitude>
+<shortcode>BFF</shortcode>,<name>Scottsbluff County</name>,"<city>Gering</city>, <state>NE</state>",<latitude>41.8740278</latitude>,<longitude>-103.5956389</longitude>
+<shortcode>CDR</shortcode>,<name>Chadron Municipal</name>,"<city>Chadron</city>, <state>NE</state>",<latitude>42.8375556</latitude>,<longitude>-103.0954167</longitude>
+<shortcode>EAR</shortcode>,<name>Kearney Minicipal</name>,"<city>Kearney</city>, <state>NE</state>",<latitude>40.7254</latitude>,<longitude>-99.0133</longitude>
+<shortcode>GRI</shortcode>,<name>Central Nebraska Regional</name>,"<city>Grand Island</city>, <state>NE</state>",<latitude>40.9752</latitude>,<longitude>-98.3185</longitude>
+<shortcode>LBF</shortcode>,<name>North Platte Regional</name>,"<city>North Platte</city>, <state>NE</state>",<latitude>41.1262222</latitude>,<longitude>-100.6836667</longitude>
+<shortcode>MCK</shortcode>,<name>McCook Municipal</name>,"<city>McCook</city>, <state>NE</state>",<latitude>40.2062778</latitude>,<longitude>-100.5920833</longitude>
+<shortcode>LAS</shortcode>,<name>McCarran International</name>,"<city>Las Vegas</city>, <state>NV</state>",<latitude>36.0800556</latitude>,<longitude>-115.15225</longitude>
+<shortcode>RNO</shortcode>,<name>Reno/Tahoe International</name>,"<city>Reno</city>, <state>NV</state>",<latitude>39.4991111</latitude>,<longitude>-119.7681111</longitude>
+<shortcode>EKO</shortcode>,<name>Elko Municipal</name>,"<city>Elko</city>, <state>NV</state>",<latitude>40.8249167</latitude>,<longitude>-115.7916944</longitude>
+<shortcode>ELY</shortcode>,<name>Ely Airport</name>,"<city>Ely</city>, <state>NV</state>",<latitude>39.300999</latitude>,<longitude>-114.841394</longitude>
+<shortcode>MHT</shortcode>,<name>Manchester</name>,"<city>Manchester</city>, <state>NH</state>",<latitude>42.9328043</latitude>,<longitude>-71.4357391</longitude>
+<shortcode>PSM</shortcode>,<name>Portsmouth International at Pease</name>,"<city>Portsmouth</city>, <state>NH</state>",<latitude>43.0779444</latitude>,<longitude>-70.8232778</longitude>
+<shortcode>LEB</shortcode>,<name>Lebanon Municipal</name>,"<city>West Lebanon</city>, <state>NH</state>",<latitude>43.6261111</latitude>,<longitude>-72.3041944</longitude>
+<shortcode>EWR</shortcode>,<name>Newark International</name>,"<city>Newark</city>, <state>NJ</state>",<latitude>40.69055</latitude>,<longitude>-74.17761</longitude>
+<shortcode>ACY</shortcode>,<name>Atlantic City International</name>,"<city>Atlantic City</city>, <state>NJ</state>",<latitude>39.4575833</latitude>,<longitude>-74.5771667</longitude>
+<shortcode>ABQ</shortcode>,<name>Albuquerque International Sunport</name>,"<city>Albuquerque</city>, <state>NM</state>",<latitude>35.0496</latitude>,<longitude>-106.617</longitude>
+<shortcode>FMN</shortcode>,<name>Four Corners Regional</name>,"<city>Farmington</city>, <state>NM</state>",<latitude>36.74125</latitude>,<longitude>-108.2299444</longitude>
+<shortcode>ROW</shortcode>,<name>Roswell International Air Center</name>,"<city>Roswell</city>, <state>NM</state>",<latitude>33.30663</latitude>,<longitude>-104.52208</longitude>
+<shortcode>SAF</shortcode>,<name>Santa Fe Municipal</name>,"<city>Santa Fe</city>, <state>NM</state>",<latitude>35.6171086</latitude>,<longitude>-106.0894228</longitude>
+<shortcode>JFK</shortcode>,<name>John F. Kennedy International</name>,"<city>Jamaica</city>, <state>NY</state>",<latitude>40.64432</latitude>,<longitude>-73.78261</longitude>
+<shortcode>LGA</shortcode>,<name>LaGuardia</name>,"<city>Flushing</city>, <state>NY</state>",<latitude>40.77725</latitude>,<longitude>-73.8726111</longitude>
+<shortcode>ALB</shortcode>,<name>Albany County</name>,"<city>Albany</city>, <state>NY</state>",<latitude>42.7491111</latitude>,<longitude>-73.8019722</longitude>
+<shortcode>BUF</shortcode>,<name>Greater Buffalo</name>,"<city>Cheektowaga</city>, <state>NY</state>",<latitude>42.9405247</latitude>,<longitude>-78.7321667</longitude>
+<shortcode>HPN</shortcode>,<name>Westchester County</name>,"<city>White Plains</city>, <state>NY</state>",<latitude>41.0669444</latitude>,<longitude>-73.7075556</longitude>
+<shortcode>ISP</shortcode>,<name>Long Island MacArthur</name>,"<city>Ronkonkoma, Town of Islip</city>, <state>NY</state>",<latitude>40.78918</latitude>,<longitude>-73.09736</longitude>
+<shortcode>ROC</shortcode>,<name>Rochester-Monroe County</name>,"<city>Rochester</city>, <state>NY</state>",<latitude>43.1188611</latitude>,<longitude>-77.6723889</longitude>
+<shortcode>SWF</shortcode>,<name>Stewart</name>,"<city>New Windor</city>, <state>NY</state>",<latitude>41.5041111</latitude>,<longitude>-74.1048333</longitude>
+<shortcode>SYR</shortcode>,<name>Syracuse-Hancock International</name>,"<city>North Syracuse</city>, <state>NY</state>",<latitude>43.1111869</latitude>,<longitude>-76.1063106</longitude>
+<shortcode>BGM</shortcode>,<name>Binghamton Regional</name>,"<city>Johnson City</city>, <state>NY</state>",<latitude>42.2085556</latitude>,<longitude>-75.9797222</longitude>
+<shortcode>ELM</shortcode>,<name>Elmira-Corning Regional</name>,"<city>Horseheads</city>, <state>NY</state>",<latitude>42.1598889</latitude>,<longitude>-76.8916111</longitude>
+<shortcode>IAG</shortcode>,<name>Niagara Falls International</name>,"<city>Niagara Falls</city>, <state>NY</state>",<latitude>43.1073333</latitude>,<longitude>-78.9461944</longitude>
+<shortcode>PBG</shortcode>,<name>Plattsburg International</name>,"<city>Plattsburgh</city>, <state>NY</state>",<latitude>44.6509444</latitude>,<longitude>-73.4681389</longitude>
+<shortcode>RME</shortcode>,<name>Oneida County at Rome (Griffiss)</name>,"<city>Oriskany</city>, <state>NY</state>",<latitude>43.2338056</latitude>,<longitude>-75.4070278</longitude>
+<shortcode>6N5</shortcode>,<name>East 34th Street Heliport</name>,"<city>New York</city>, <state>NY</state>",<latitude>40.7426017</latitude>,<longitude>-73.9720831</longitude>
+<shortcode>ART</shortcode>,<name>Watertown International</name>,"<city>Dexter</city>, <state>NY</state>",<latitude>43.9919222</latitude>,<longitude>-76.0217386</longitude>
+<shortcode>ITH</shortcode>,<name>Tompkins County</name>,"<city>Ithaca</city>, <state>NY</state>",<latitude>42.4913611</latitude>,<longitude>-76.4587222</longitude>
+<shortcode>JHW</shortcode>,<name>Chautauqua County</name>,"<city>Jamestown</city>, <state>NY</state>",<latitude>42.1533889</latitude>,<longitude>-79.2580278</longitude>
+<shortcode>JRB</shortcode>,<name>Downtown Manhattan Heliport</name>,"<city>New York</city>, <state>NY</state>",<latitude>40.7012136</latitude>,<longitude>-74.0090283</longitude>
+<shortcode>MSS</shortcode>,<name>Massena International</name>,"<city>Massena</city>, <state>NY</state>",<latitude>44.9358333</latitude>,<longitude>-74.8455556</longitude>
+<shortcode>OGS</shortcode>,<name>Ogdensburg International</name>,"<city>Ogdensburg</city>, <state>NY</state>",<latitude>44.6818611</latitude>,<longitude>-75.4655</longitude>
+<shortcode>SLK</shortcode>,<name>Adirondack Regional</name>,"<city>Saranac Lake</city>, <state>NY</state>",<latitude>44.3853056</latitude>,<longitude>-74.2061944</longitude>
+<shortcode>CLT</shortcode>,<name>Charlotte Douglas International</name>,"<city>Charlotte</city>, <state>NC</state>",<latitude>35.22073</latitude>,<longitude>-80.94396</longitude>
+<shortcode>GSO</shortcode>,<name>Piedmont Triad International</name>,"<city>Greensboro</city>, <state>NC</state>",<latitude>36.09775</latitude>,<longitude>-79.9373056</longitude>
+<shortcode>RDU</shortcode>,<name>Raleigh-Durham International</name>,"<city>RDU Airport</city>, <state>NC</state>",<latitude>35.8776389</latitude>,<longitude>-78.7874722</longitude>
+<shortcode>AVL</shortcode>,<name>Asheville Regional</name>,"<city>Fletcher</city>, <state>NC</state>",<latitude>35.4361944</latitude>,<longitude>-82.5418056</longitude>
+<shortcode>ILM</shortcode>,<name>Wilmington International</name>,"<city>Wilmington</city>, <state>NC</state>",<latitude>34.2706667</latitude>,<longitude>-77.9025</longitude>
+<shortcode>EWN</shortcode>,<name>Coastal Carolina Regional</name>,"<city>New Bern</city>, <state>NC</state>",<latitude>35.0729722</latitude>,<longitude>-77.0429444</longitude>
+<shortcode>FAY</shortcode>,<name>Fayetteville Regional</name>,"<city>Fayetteville</city>, <state>NC</state>",<latitude>34.9912222</latitude>,<longitude>-78.8802778</longitude>
+<shortcode>ISO</shortcode>,<name>Kinston Regional Jetport</name>,"<city>Kinston</city>, <state>NC</state>",<latitude>35.3314444</latitude>,<longitude>-77.6088333</longitude>
+<shortcode>OAJ</shortcode>,<name>Albert J Ellis</name>,"<city>Richlands</city>, <state>NC</state>",<latitude>34.8291644</latitude>,<longitude>-77.6121378</longitude>
+<shortcode>PGV</shortcode>,<name>Pitt-Greenville</name>,"<city>Greenville</city>, <state>NC</state>",<latitude>35.63525</latitude>,<longitude>-77.3853056</longitude>
+<shortcode>FAR</shortcode>,<name>Hector International</name>,"<city>Fargo</city>, <state>ND</state>",<latitude>46.92065</latitude>,<longitude>-96.8157639</longitude>
+<shortcode>BIS</shortcode>,<name>Bismarck Municipal</name>,"<city>Bismarck</city>, <state>ND</state>",<latitude>46.7727222</latitude>,<longitude>-100.74575</longitude>
+<shortcode>GFK</shortcode>,<name>Grand Forks International</name>,"<city>Grand Forks</city>, <state>ND</state>",<latitude>47.9472756</latitude>,<longitude>-97.1736397</longitude>
+<shortcode>MOT</shortcode>,<name>Minot International</name>,"<city>Minot</city>, <state>ND</state>",<latitude>48.2576389</latitude>,<longitude>-101.2780278</longitude>
+<shortcode>DIK</shortcode>,<name>Dickinson Regional</name>,"<city>Dickinson</city>, <state>ND</state>",<latitude>46.802</latitude>,<longitude>-102.7925</longitude>
+<shortcode>DVL</shortcode>,<name>Devils Lake Municipal</name>,"<city>Devils Lake</city>, <state>ND</state>",<latitude>48.1145833</latitude>,<longitude>-98.9083333</longitude>
+<shortcode>ISN</shortcode>,<name>Sloulin Field International</name>,"<city>Williston</city>, <state>ND</state>",<latitude>48.17673</latitude>,<longitude>-103.63077</longitude>
+<shortcode>JMS</shortcode>,<name>Jamestown Municipal</name>,"<city>Jamestown</city>, <state>ND</state>",<latitude>46.9297222</latitude>,<longitude>-98.6781944</longitude>
+<shortcode>CLE</shortcode>,<name>Cleveland Hopkins International</name>,"<city>Cleveland</city>, <state>OH</state>",<latitude>41.4094167</latitude>,<longitude>-81.8549804</longitude>
+<shortcode>CMH</shortcode>,<name>John Glenn Columbus International</name>,"<city>Columbus</city>, <state>OH</state>",<latitude>39.9979722</latitude>,<longitude>-82.88464</longitude>
+<shortcode>DAY</shortcode>,<name>James M. Cox Dayton International</name>,"<city>Dayton</city>, <state>OH</state>",<latitude>39.9023758</latitude>,<longitude>-84.2193751</longitude>
+<shortcode>CAK</shortcode>,<name>Akron-Canton Regional</name>,"<city>North Canton</city>, <state>OH</state>",<latitude>40.9160833</latitude>,<longitude>-81.4421944</longitude>
+<shortcode>TOL</shortcode>,<name>Toledo Express</name>,"<city>Swanton</city>, <state>OH</state>",<latitude>41.5868056</latitude>,<longitude>-83.8078333</longitude>
+<shortcode>LCK</shortcode>,<name>Rickenbacker International</name>,"<city>Columbus</city>, <state>OH</state>",<latitude>39.8137858</latitude>,<longitude>-82.9278226</longitude>
+<shortcode>YNG</shortcode>,<name>Youngstown-Warren Regional</name>,"<city>Vienna</city>, <state>OH</state>",<latitude>41.2607356</latitude>,<longitude>-80.6790967</longitude>
+<shortcode>OKC</shortcode>,<name>Will Rogers World Airport</name>,"<city>Oklahoma City</city>, <state>OK</state>",<latitude>35.3930883</latitude>,<longitude>-97.6007339</longitude>
+<shortcode>TUL</shortcode>,<name>Tulsa International</name>,"<city>Tulsa</city>, <state>OK</state>",<latitude>36.1983889</latitude>,<longitude>-95.8881111</longitude>
+<shortcode>LAW</shortcode>,<name>Lawton Municipal</name>,"<city>Lawton</city>, <state>OK</state>",<latitude>34.5677144</latitude>,<longitude>-98.4166367</longitude>
+<shortcode>PDX</shortcode>,<name>Portland International</name>,"<city>Portland</city>, <state>OR</state>",<latitude>45.5884557</latitude>,<longitude>-122.5974516</longitude>
+<shortcode>EUG</shortcode>,<name>Mahlon Sweet Field</name>,"<city>Eugene</city>, <state>OR</state>",<latitude>44.1245833</latitude>,<longitude>-123.2119722</longitude>
+<shortcode>MFR</shortcode>,<name>Rogue Valley International-Medford</name>,"<city>Medford</city>, <state>OR</state>",<latitude>42.3742222</latitude>,<longitude>-122.8735</longitude>
+<shortcode>RDM</shortcode>,<name>Roberts Field</name>,"<city>Redmond</city>, <state>OR</state>",<latitude>44.2540556</latitude>,<longitude>-121.1499722</longitude>
+<shortcode>LMT</shortcode>,<name>Kingsley Field</name>,"<city>Klamath Falls</city>, <state>OR</state>",<latitude>42.1561389</latitude>,<longitude>-121.7331944</longitude>
+<shortcode>OTH</shortcode>,<name>North Bend Municipal</name>,"<city>North Bend</city>, <state>OR</state>",<latitude>43.4169444</latitude>,<longitude>-124.2470278</longitude>
+<shortcode>PDT</shortcode>,<name>Eastern Oregon Regional - Pendelton</name>,"<city>Pendelton</city>, <state>OR</state>",<latitude>45.6950556</latitude>,<longitude>-118.8414444</longitude>
+<shortcode>SLE</shortcode>,<name>McNary Field</name>,"<city>Salem</city>, <state>OR</state>",<latitude>44.9095278</latitude>,<longitude>-123.0025</longitude>
+<shortcode>GSN</shortcode>,<name>Saipan International</name>,"<city>Fadang</city>, <state>MP</state>",<latitude>15.1190014</latitude>,<longitude>145.7293561</longitude>
+<shortcode>GRO</shortcode>,<name>Rota International</name>,"<city>Sinapalu</city>, <state>MP</state>",<latitude>14.1743552</latitude>,<longitude>145.2411253</longitude>
+<shortcode>PHL</shortcode>,<name>Philadelphia International</name>,"<city>Philadelphia</city>, <state>PA</state>",<latitude>39.8722494</latitude>,<longitude>-75.2408658</longitude>
+<shortcode>PIT</shortcode>,<name>Pittsburgh International</name>,"<city>Pittsburgh</city>, <state>PA</state>",<latitude>40.4914722</latitude>,<longitude>-80.2328611</longitude>
+<shortcode>ABE</shortcode>,<name>Lehigh Valley International</name>,"<city>Allentown</city>, <state>PA</state>",<latitude>40.65222</latitude>,<longitude>-75.44028</longitude>
+<shortcode>MDT</shortcode>,<name>Harrisburg International</name>,"<city>Middletown</city>, <state>PA</state>",<latitude>40.1934953</latitude>,<longitude>-76.7634036</longitude>
+<shortcode>AVP</shortcode>,<name>Wilkes Barre/Scranton International</name>,"<city>Avoca</city>, <state>PA</state>",<latitude>41.3384722</latitude>,<longitude>-75.7233889</longitude>
+<shortcode>ERI</shortcode>,<name>Erie International</name>,"<city>Erie</city>, <state>PA</state>",<latitude>42.0820214</latitude>,<longitude>-80.1762156</longitude>
+<shortcode>AOO</shortcode>,<name>Altoona-Blair County</name>,"<city>Martinsburg</city>, <state>PA</state>",<latitude>40.2963611</latitude>,<longitude>-78.3200278</longitude>
+<shortcode>BFD</shortcode>,<name>Bradford Regional</name>,"<city>Lewis Run</city>, <state>PA</state>",<latitude>41.8030678</latitude>,<longitude>-78.6401208</longitude>
+<shortcode>DUJ</shortcode>,<name>Dubois-Jefferson County</name>,"<city>Falls Creek</city>, <state>PA</state>",<latitude>41.1782778</latitude>,<longitude>-78.8986944</longitude>
+<shortcode>FKL</shortcode>,<name>Venango Regional</name>,"<city>Franklin</city>, <state>PA</state>",<latitude>41.3778736</latitude>,<longitude>-79.8603617</longitude>
+<shortcode>IPT</shortcode>,<name>Williamsport Lycoming County</name>,"<city>Montoursville</city>, <state>PA</state>",<latitude>41.2418358</latitude>,<longitude>-76.9210956</longitude>
+<shortcode>JST</shortcode>,<name>Johnstown-Cambria County</name>,"<city>Johnstown</city>, <state>PA</state>",<latitude>40.3161111</latitude>,<longitude>-78.8339444</longitude>
+<shortcode>LBE</shortcode>,<name>Westmoreland County</name>,"<city>Latrobe</city>, <state>PA</state>",<latitude>40.2746111</latitude>,<longitude>-79.40675</longitude>
+<shortcode>LNS</shortcode>,<name>Lancaster</name>,"<city>Lititz</city>, <state>PA</state>",<latitude>40.1223611</latitude>,<longitude>-76.2943611</longitude>
+<shortcode>RDG</shortcode>,<name>Reading Regional</name>,"<city>Reading</city>, <state>PA</state>",<latitude>40.3785</latitude>,<longitude>-75.96525</longitude>
+<shortcode>UNV</shortcode>,<name>University Park</name>,"<city>University Park</city>, <state>PA</state>",<latitude>40.8492778</latitude>,<longitude>-77.8486944</longitude>
+<shortcode>SJU</shortcode>,<name>Luis Munoz Marin International</name>,"<city>San Juan</city>, <state>PR</state>",<latitude>18.4394167</latitude>,<longitude>-66.0018333</longitude>
+<shortcode>BQN</shortcode>,<name>Rafael Hernandez</name>,"<city>Aguadilla</city>, <state>PR</state>",<latitude>18.4948611</latitude>,<longitude>-67.1294444</longitude>
+<shortcode>PSE</shortcode>,<name>Mercedita</name>,"<city>Ponce</city>, <state>PR</state>",<latitude>18.0083056</latitude>,<longitude>-66.5630278</longitude>
+<shortcode>PVD</shortcode>,<name>T F Green State</name>,"<city>Warwick</city>, <state>RI</state>",<latitude>41.7239992</latitude>,<longitude>-71.4282211</longitude>
+<shortcode>CAE</shortcode>,<name>Columbia Metropolitan</name>,"<city>West Columbia</city>, <state>SC</state>",<latitude>33.9388333</latitude>,<longitude>-81.1195278</longitude>
+<shortcode>CHS</shortcode>,<name>Charleston International Airport</name>,"<city>Charleston</city>, <state>SC</state>",<latitude>32.8986389</latitude>,<longitude>-80.0405278</longitude>
+<shortcode>GSP</shortcode>,<name>Greenville-Spartanburg International</name>,"<city>Greer</city>, <state>SC</state>",<latitude>34.8956667</latitude>,<longitude>-82.2188611</longitude>
+<shortcode>MYR</shortcode>,<name>Myrtle Beach International</name>,"<city>Myrtle Beach</city>, <state>SC</state>",<latitude>33.67975</latitude>,<longitude>-78.9283333</longitude>
+<shortcode>HXD</shortcode>,<name>Hilton Head</name>,"<city>Hilton Head Island</city>, <state>SC</state>",<latitude>32.2243611</latitude>,<longitude>-80.6974722</longitude>
+<shortcode>FLO</shortcode>,<name>Florence Regional</name>,"<city>Florence</city>, <state>SC</state>",<latitude>34.1853611</latitude>,<longitude>-79.7238889</longitude>
+<shortcode>FSD</shortcode>,<name>Joe Foss Field</name>,"<city>Sioux Falls</city>, <state>SD</state>",<latitude>43.5954</latitude>,<longitude>-96.7373</longitude>
+<shortcode>RAP</shortcode>,<name>Rapid City Regional</name>,"<city>Rapid City</city>, <state>SD</state>",<latitude>44.0453333</latitude>,<longitude>-103.0573611</longitude>
+<shortcode>ABR</shortcode>,<name>Aberdeen Regional</name>,"<city>Aberdeen</city>, <state>SD</state>",<latitude>45.4490556</latitude>,<longitude>-98.4218333</longitude>
+<shortcode>ATY</shortcode>,<name>Watertown Municipal</name>,"<city>Watertown</city>, <state>SD</state>",<latitude>44.9139722</latitude>,<longitude>-97.1547222</longitude>
+<shortcode>HON</shortcode>,<name>Huron Minicipal</name>,"<city>Huron</city>, <state>SD</state>",<latitude>44.3851944</latitude>,<longitude>-98.2285556</longitude>
+<shortcode>PIR</shortcode>,<name>Pierre Regional</name>,"<city>Pierre</city>, <state>SD</state>",<latitude>44.3826944</latitude>,<longitude>-100.2859722</longitude>
+<shortcode>BNA</shortcode>,<name>Nashville International</name>,"<city>Nashville</city>, <state>TN</state>",<latitude>36.1244722</latitude>,<longitude>-86.6781944</longitude>
+<shortcode>MEM</shortcode>,<name>Memphis International</name>,"<city>Memphis</city>, <state>TN</state>",<latitude>35.0424167</latitude>,<longitude>-89.9766667</longitude>
+<shortcode>CHA</shortcode>,<name>Chattanooga Metropolitan</name>,"<city>Chattanooga</city>, <state>TN</state>",<latitude>35.0351944</latitude>,<longitude>-85.2035556</longitude>
+<shortcode>TYS</shortcode>,<name>McGhee Tyson</name>,"<city>Alcoa</city>, <state>TN</state>",<latitude>35.8109722</latitude>,<longitude>-83.9940278</longitude>
+<shortcode>TRI</shortcode>,<name>Tri Cities Regional</name>,"<city>Blountville</city>, <state>TN</state>",<latitude>36.4752222</latitude>,<longitude>-82.4074167</longitude>
+<shortcode>MKL</shortcode>,<name>McKellar-Sipes Regional</name>,"<city>Jackson</city>, <state>TN</state>",<latitude>35.5998889</latitude>,<longitude>-88.9156111</longitude>
+<shortcode>DFW</shortcode>,<name>Dallas/Fort Worth International</name>,"<city>DFW Airport</city>, <state>TX</state>",<latitude>32.896615</latitude>,<longitude>-97.0377</longitude>
+<shortcode>IAH</shortcode>,<name>George Bush Houston Intercontinental</name>,"<city>Houston</city>, <state>TX</state>",<latitude>29.9844336</latitude>,<longitude>-95.3414422</longitude>
+<shortcode>AUS</shortcode>,<name>Austin-Bergstrom International</name>,"<city>Austin</city>, <state>TX</state>",<latitude>30.202568</latitude>,<longitude>-97.66808</longitude>
+<shortcode>DAL</shortcode>,<name>Dallas Love Field</name>,"<city>Dallas</city>, <state>TX</state>",<latitude>32.8471111</latitude>,<longitude>-96.8517778</longitude>
+<shortcode>ELP</shortcode>,<name>El Paso International</name>,"<city>El Paso</city>, <state>TX</state>",<latitude>31.80725</latitude>,<longitude>-106.3775556</longitude>
+<shortcode>HOU</shortcode>,<name>William P. Hobby</name>,"<city>Houston</city>, <state>TX</state>",<latitude>29.65442</latitude>,<longitude>-95.27653</longitude>
+<shortcode>SAT</shortcode>,<name>San Antonio International</name>,"<city>San Antonio</city>, <state>TX</state>",<latitude>29.5336944</latitude>,<longitude>-98.4697778</longitude>
+<shortcode>AMA</shortcode>,<name>Amarillo International</name>,"<city>Amarillo</city>, <state>TX</state>",<latitude>35.2193611</latitude>,<longitude>-101.7059167</longitude>
+<shortcode>CRP</shortcode>,<name>Corpus Christi</name>,"<city>Corpus Christi</city>, <state>TX</state>",<latitude>27.7703611</latitude>,<longitude>-97.5012222</longitude>
+<shortcode>HRL</shortcode>,<name>Rio Grande Valley International</name>,"<city>Harlingen</city>, <state>TX</state>",<latitude>26.2285</latitude>,<longitude>-97.6543889</longitude>
+<shortcode>LBB</shortcode>,<name>Lubbock International</name>,"<city>Lubbock</city>, <state>TX</state>",<latitude>33.6636389</latitude>,<longitude>-101.8227778</longitude>
+<shortcode>MAF</shortcode>,<name>Midland International</name>,"<city>Midland</city>, <state>TX</state>",<latitude>31.9425278</latitude>,<longitude>-102.2019139</longitude>
+<shortcode>MFE</shortcode>,<name>Miller International</name>,"<city>McAllen</city>, <state>TX</state>",<latitude>26.1758333</latitude>,<longitude>-98.2386111</longitude>
+<shortcode>ABI</shortcode>,<name>Abilene Regional</name>,"<city>Abilene</city>, <state>TX</state>",<latitude>32.4113056</latitude>,<longitude>-99.6818889</longitude>
+<shortcode>ACT</shortcode>,<name>Waco Regional</name>,"<city>Waco</city>, <state>TX</state>",<latitude>31.6112883</latitude>,<longitude>-97.2305192</longitude>
+<shortcode>BRO</shortcode>,<name>Brownsville/South Padre International</name>,"<city>Brownsville</city>, <state>TX</state>",<latitude>25.9068333</latitude>,<longitude>-97.4258333</longitude>
+<shortcode>GGG</shortcode>,<name>Gregg County</name>,"<city>Longview</city>, <state>TX</state>",<latitude>32.3840144</latitude>,<longitude>-94.7114867</longitude>
+<shortcode>GRK</shortcode>,<name>Killeen-Ft. Hood Regional</name>,"<city>Killeen</city>, <state>TX</state>",<latitude>31.06725</latitude>,<longitude>-97.8289167</longitude>
+<shortcode>LRD</shortcode>,<name>Laredo International</name>,"<city>Laredo</city>, <state>TX</state>",<latitude>27.5437994</latitude>,<longitude>-99.4615326</longitude>
+<shortcode>SPS</shortcode>,<name>Sheppard AFB/ Wichita Falls Municipal</name>,"<city>Wichita Falls</city>, <state>TX</state>",<latitude>33.9887961</latitude>,<longitude>-98.4918933</longitude>
+<shortcode>BPT</shortcode>,<name>Jefferson County</name>,"<city>Beaumont</city>, <state>TX</state>",<latitude>29.9508333</latitude>,<longitude>-94.0206944</longitude>
+<shortcode>CLL</shortcode>,<name>Easterwood Field</name>,"<city>College Station</city>, <state>TX</state>",<latitude>30.5885833</latitude>,<longitude>-96.3638333</longitude>
+<shortcode>DRT</shortcode>,<name>Del Rio International</name>,"<city>Del Rio</city>, <state>TX</state>",<latitude>29.3742069</latitude>,<longitude>-100.9271569</longitude>
+<shortcode>SJT</shortcode>,<name>Mathis Field</name>,"<city>San Angelo</city>, <state>TX</state>",<latitude>31.35775</latitude>,<longitude>-100.4963056</longitude>
+<shortcode>TYR</shortcode>,<name>Tyler Pounds Field</name>,"<city>Tyler</city>, <state>TX</state>",<latitude>32.3541389</latitude>,<longitude>-95.4023861</longitude>
+<shortcode>VCT</shortcode>,<name>Victoria Regional</name>,"<city>Victoria</city>, <state>TX</state>",<latitude>28.8525556</latitude>,<longitude>-96.9184872</longitude>
+<shortcode>GUM</shortcode>,<name>A.B. Won Pat International</name>,"<city>Tamuning</city>, <state>GU</state>",<latitude>13.4838738</latitude>,<longitude>144.7971703</longitude>
+<shortcode>PPG</shortcode>,<name>Pago Pago-American Samoa</name>,"<city>Tafuna</city>, <state>AS</state>",<latitude>-14.33166</latitude>,<longitude>-170.7115031</longitude>
+<shortcode>SLC</shortcode>,<name>Salt Lake City International</name>,"<city>Salt Lake City</city>, <state>UT</state>",<latitude>40.7861</latitude>,<longitude>-111.98099</longitude>
+<shortcode>ENV</shortcode>,<name>Wendover Municipal</name>,"<city>Wendover</city>, <state>UT</state>",<latitude>40.7186944</latitude>,<longitude>-114.0308889</longitude>
+<shortcode>CDC</shortcode>,<name>Cedar City Municipal</name>,"<city>Cedar City</city>, <state>UT</state>",<latitude>37.7009664</latitude>,<longitude>-113.0988458</longitude>
+<shortcode>CNY</shortcode>,<name>Canyonlands Field</name>,"<city>Moab</city>, <state>UT</state>",<latitude>38.7549561</latitude>,<longitude>-109.7548439</longitude>
+<shortcode>SGU</shortcode>,<name>St. George Municipal</name>,"<city>St. George</city>, <state>UT</state>",<latitude>37.0905833</latitude>,<longitude>-113.5930556</longitude>
+<shortcode>VEL</shortcode>,<name>Vernal Regional</name>,"<city>Vernal</city>, <state>UT</state>",<latitude>40.4409167</latitude>,<longitude>-109.5099167</longitude>
+<shortcode>BTV</shortcode>,<name>Burlington International</name>,"<city>South Burlington</city>, <state>VT</state>",<latitude>44.4718611</latitude>,<longitude>-73.1532778</longitude>
+<shortcode>RUT</shortcode>,<name>Rutland State</name>,"<city>North Clarendon</city>, <state>VT</state>",<latitude>43.5299069</latitude>,<longitude>-72.949615</longitude>
+<shortcode>STT</shortcode>,<name>Cyril E. King International</name>,"<city>St Thomas</city>, <state>VI</state>",<latitude>18.3373056</latitude>,<longitude>-64.9733611</longitude>
+<shortcode>STX</shortcode>,<name>Henry E. Rohlsen</name>,"<city>Christiansted</city>, <state>VI</state>",<latitude>17.7015558</latitude>,<longitude>-64.8017219</longitude>
+<shortcode>DCA</shortcode>,<name>Washington Reagan National</name>,"<city>Washington, DC</city>, <state>VA</state>",<latitude>38.849</latitude>,<longitude>-77.04133</longitude>
+<shortcode>IAD</shortcode>,<name>Washington-Dulles International</name>,"<city>Washington, DC</city>, <state>VA</state>",<latitude>38.95313</latitude>,<longitude>-77.44743</longitude>
+<shortcode>ORF</shortcode>,<name>Norfolk International</name>,"<city>Norfolk</city>, <state>VA</state>",<latitude>36.8946111</latitude>,<longitude>-76.2012222</longitude>
+<shortcode>RIC</shortcode>,<name>Richmond International</name>,"<city>Sandston</city>, <state>VA</state>",<latitude>37.50724</latitude>,<longitude>-77.33349</longitude>
+<shortcode>PHF</shortcode>,<name>Newport News/Williamsburg International</name>,"<city>Newport News</city>, <state>VA</state>",<latitude>37.1318889</latitude>,<longitude>-76.4929722</longitude>
+<shortcode>ROA</shortcode>,<name>Roanoke Regional Woodrum Field</name>,"<city>Roanoke</city>, <state>VA</state>",<latitude>37.3254722</latitude>,<longitude>-79.9754167</longitude>
+<shortcode>CHO</shortcode>,<name>Charlottesville-Albemarle</name>,"<city>Earlysville</city>, <state>VA</state>",<latitude>38.1386389</latitude>,<longitude>-78.4528611</longitude>
+<shortcode>LYH</shortcode>,<name>Lynchburg Regional</name>,"<city>Lynchburg</city>, <state>VA</state>",<latitude>37.3253889</latitude>,<longitude>-79.2004306</longitude>
+<shortcode>SHD</shortcode>,<name>Shenandoah Valley Regional</name>,"<city>Weyers Cave</city>, <state>VA</state>",<latitude>38.2638333</latitude>,<longitude>-78.8964444</longitude>
+<shortcode>CRW</shortcode>,<name>Yeager</name>,"<city>Charleston</city>, <state>WV</state>",<latitude>38.3731389</latitude>,<longitude>-81.5931944</longitude>
+<shortcode>HTS</shortcode>,<name>Tri-State</name>,"<city>Huntington</city>, <state>WV</state>",<latitude>38.3666667</latitude>,<longitude>-82.5580278</longitude>
+<shortcode>LWB</shortcode>,<name>Greenbrier Valley</name>,"<city>Lewisburg</city>, <state>WV</state>",<latitude>37.8583056</latitude>,<longitude>-80.3994722</longitude>
+<shortcode>BKW</shortcode>,<name>Raleigh County Memorial</name>,"<city>Beaver</city>, <state>WV</state>",<latitude>37.7873265</latitude>,<longitude>-81.1241643</longitude>
+<shortcode>CKB</shortcode>,<name>Benedun</name>,"<city>Bridgeport</city>, <state>WV</state>",<latitude>39.2966389</latitude>,<longitude>-80.2280833</longitude>
+<shortcode>MGW</shortcode>,<name>Morgantown Municipal</name>,"<city>Morgantown</city>, <state>WV</state>",<latitude>39.6429075</latitude>,<longitude>-79.9163142</longitude>
+<shortcode>PKB</shortcode>,<name>Wood County</name>,"<city>Parkersburg</city>, <state>WV</state>",<latitude>39.3451039</latitude>,<longitude>-81.4392031</longitude>
+<shortcode>SEA</shortcode>,<name>Seattle-Tacoma International</name>,"<city>Seattle</city>, <state>WA</state>",<latitude>47.44354</latitude>,<longitude>-122.30176</longitude>
+<shortcode>GEG</shortcode>,<name>Spokane International</name>,"<city>Spokane</city>, <state>WA</state>",<latitude>47.6198611</latitude>,<longitude>-117.5338333</longitude>
+<shortcode>ALW</shortcode>,<name>Walla Walla Regional</name>,"<city>Walla Walla</city>, <state>WA</state>",<latitude>46.0947778</latitude>,<longitude>-118.289</longitude>
+<shortcode>BLI</shortcode>,<name>Bellingham International</name>,"<city>Bellingham</city>, <state>WA</state>",<latitude>48.7926944</latitude>,<longitude>-122.5375278</longitude>
+<shortcode>EAT</shortcode>,<name>Pangborn Memorial</name>,"<city>East Wenatchee</city>, <state>WA</state>",<latitude>47.3980892</latitude>,<longitude>-120.2057374</longitude>
+<shortcode>PSC</shortcode>,<name>Tri-Cities</name>,"<city>Pasco</city>, <state>WA</state>",<latitude>46.2646944</latitude>,<longitude>-119.1190278</longitude>
+<shortcode>PUW</shortcode>,<name>Pullman-Moscow Regional</name>,"<city>Pullman</city>, <state>WA</state>",<latitude>46.7438611</latitude>,<longitude>-117.1095833</longitude>
+<shortcode>YKM</shortcode>,<name>Yakima Air Terminal</name>,"<city>Yakima</city>, <state>WA</state>",<latitude>46.571201</latitude>,<longitude>-120.54101</longitude>
+<shortcode>MKE</shortcode>,<name>General Mitchell International</name>,"<city>Milwaukee</city>, <state>WI</state>",<latitude>42.94769</latitude>,<longitude>-87.902</longitude>
+<shortcode>ATW</shortcode>,<name>Outagamie County</name>,"<city>Appleton</city>, <state>WI</state>",<latitude>44.2580833</latitude>,<longitude>-88.5190833</longitude>
+<shortcode>GRB</shortcode>,<name>Austin Straubel Field</name>,"<city>Green Bay</city>, <state>WI</state>",<latitude>44.4846389</latitude>,<longitude>-88.1297222</longitude>
+<shortcode>MSN</shortcode>,<name>Dane County Regional</name>,"<city>Madison</city>, <state>WI</state>",<latitude>43.13622</latitude>,<longitude>-89.3458</longitude>
+<shortcode>CWA</shortcode>,<name>Central Wisconsin Regional</name>,"<city>Mosinee</city>, <state>WI</state>",<latitude>44.7776237</latitude>,<longitude>-89.666778</longitude>
+<shortcode>LSE</shortcode>,<name>Lacrosse Municipal</name>,"<city>La Crosse</city>, <state>WI</state>",<latitude>43.8792656</latitude>,<longitude>-91.256638</longitude>
+<shortcode>EAU</shortcode>,<name>Chippewa Valley Regional</name>,"<city>Eau Claire</city>, <state>WI</state>",<latitude>44.8658045</latitude>,<longitude>-91.4842552</longitude>
+<shortcode>RHI</shortcode>,<name>Rhinelander-Oneida County</name>,"<city>Rhinelander</city>, <state>WI</state>",<latitude>45.6308997</latitude>,<longitude>-89.4666282</longitude>
+<shortcode>CPR</shortcode>,<name>Natrona County International</name>,"<city>Casper</city>, <state>WY</state>",<latitude>42.90049</latitude>,<longitude>-106.4598</longitude>
+<shortcode>JAC</shortcode>,<name>Jackson Hole</name>,"<city>Jackson</city>, <state>WY</state>",<latitude>43.60143</latitude>,<longitude>-110.73566</longitude>
+<shortcode>COD</shortcode>,<name>Yellowstone Regional</name>,"<city>Cody</city>, <state>WY</state>",<latitude>44.5201944</latitude>,<longitude>-109.0238056</longitude>
+<shortcode>CYS</shortcode>,<name>Cheyenne Regional</name>,"<city>Cheyenne</city>, <state>WY</state>",<latitude>41.1556389</latitude>,<longitude>-104.8104722</longitude>
+<shortcode>GCC</shortcode>,<name>Gillette-Campbell County</name>,"<city>Gillette</city>, <state>WY</state>",<latitude>44.3489167</latitude>,<longitude>-105.5393611</longitude>
+<shortcode>LAR</shortcode>,<name>Laramine Regional</name>,"<city>Laramie</city>, <state>WY</state>",<latitude>41.3120556</latitude>,<longitude>-105.675</longitude>
+<shortcode>RIW</shortcode>,<name>Riverton Regional</name>,"<city>Riverton</city>, <state>WY</state>",<latitude>43.064235</latitude>,<longitude>-108.4598411</longitude>
+<shortcode>RKS</shortcode>,<name>Rock Springs-Sweetwater County</name>,"<city>Rock Springs</city>, <state>WY</state>",<latitude>41.5942222</latitude>,<longitude>-109.0651944</longitude>
+<shortcode>SHR</shortcode>,<name>Sheridan County</name>,"<city>Sheridan</city>, <state>WY</state>",<latitude>44.7691944</latitude>,<longitude>-106.9802778</longitude>
+<shortcode>WRL</shortcode>,<name>Worland Municipal</name>,"<city>Worland</city>, <state>WY</state>",<latitude>43.9657131</latitude>,<longitude>-107.9508308</longitude>
+<shortcode>LGU</shortcode>,<name>Logan Cache</name>,"<city>Logan</city>, <state>UT</state>",<latitude>41.787731</latitude>,<longitude>-111.852684</longitude>
+<shortcode>SGJ</shortcode>,<name>St. Augustine</name>,"<city>St. Augustine</city>, <state>FL</state>",<latitude>29.95527</latitude>,<longitude>-81.34312</longitude>
+<shortcode>ECP</shortcode>,<name>Northwest Florida Beaches International</name>,"<city>Panama City Beach</city>, <state>FL</state>",<latitude>30.357803</latitude>,<longitude>-85.798923</longitude>
+<shortcode>YIP</shortcode>,<name>Willow Run</name>,"<city>Ypsilanti</city>, <state>MI</state>",<latitude>42.237928</latitude>,<longitude>-83.530409</longitude>
+<shortcode>ANB</shortcode>,<name>Anniston Metropolitan</name>,"<city>Oxford</city>, <state>AL</state>",<latitude>33.5897</latitude>,<longitude>-85.8525</longitude>
+<shortcode>MQY</shortcode>,<name>Smyrna</name>,"<city>Smyrna</city>, <state>TN</state>",<latitude>36.008978</latitude>,<longitude>-86.520075</longitude>
+<shortcode>BMG</shortcode>,<name>Monroe County</name>,"<city>Bloomington</city>, <state>IN</state>",<latitude>39.146111</latitude>,<longitude>-86.616667</longitude>
+<shortcode>SWO</shortcode>,<name>Stillwater Regional</name>,"<city>Stillwater</city>, <state>OK</state>",<latitude>36.161111</latitude>,<longitude>-97.085556</longitude>
+<shortcode>OCF</shortcode>,<name>Ocala International</name>,"<city>Ocala</city>, <state>FL</state>",<latitude>29.1725</latitude>,<longitude>-82.224167</longitude>
+<shortcode>BWG</shortcode>,<name>Bowling Green - Warren County Regional</name>,"<city>Bowling Green</city>, <state>KY</state>",<latitude>36.964444</latitude>,<longitude>-86.419722</longitude>
+<shortcode>LAF</shortcode>,<name>Purdue University</name>,"<city>West Lafayette</city>, <state>IN</state>",<latitude>40.412222</latitude>,<longitude>-86.936944</longitude>
+<shortcode>BKG</shortcode>,<name>Branson Airport</name>,"<city>Branson</city>, <state>MO</state>",<latitude>36.5392</latitude>,<longitude>-93.1989</longitude>
+<shortcode>ESF</shortcode>,<name>Alexandria Esler Regional</name>,"<city>Alexandria</city>, <state>LA</state>",<latitude>31.39097</latitude>,<longitude>-92.29692</longitude>
+<shortcode>UCA</shortcode>,<name>Oneida County Airport</name>,"<city>Whitestown</city>, <state>NY</state>",<latitude>43.145</latitude>,<longitude>-75.38388</longitude>
+<shortcode>BLF</shortcode>,<name>Mercer County Airport</name>,"<city>Bluefield</city>, <state>WV</state>",<latitude>37.29583</latitude>,<longitude>-81.20777</longitude>
+<shortcode>DUT</shortcode>,<name>Unalaska</name>,"<city>Unalaska</city>, <state>AK</state>",<latitude>53.89434</latitude>,<longitude>-166.54231</longitude>
+<shortcode>GON</shortcode>,<name>Groton-New London</name>,"<city>Groton</city>, <state>CT</state>",<latitude>41.3338</latitude>,<longitude>-72.0472</longitude>
+<shortcode>TTN</shortcode>,<name>Trenton-Mercer Airport</name>,"<city>Ewing</city>, <state>NJ</state>",<latitude>40.27666</latitude>,<longitude>-74.81333</longitude>
+<shortcode>GUP</shortcode>,<name>Gallup Municipal Airport</name>,"<city>Gallup</city>, <state>NM</state>",<latitude>35.5159</latitude>,<longitude>-108.78038</longitude>
+<shortcode>ILG</shortcode>,<name>New Castle Airport</name>,"<city>New Castle</city>, <state>DE</state>",<latitude>39.67861</latitude>,<longitude>-75.60666</longitude>
+<shortcode>FCA</shortcode>,<name>Glacier Park International</name>,"<city>Kalispell</city>, <state>MT</state>",<latitude>48.308</latitude>,<longitude>-114.2519</longitude>
+<shortcode>LAL</shortcode>,<name>Lakeland Linder Regional Airport</name>,"<city>Lakeland</city>, <state>FL</state>",<latitude>27.988747</latitude>,<longitude>-82.0211526</longitude>
+<shortcode>HOB</shortcode>,<name>Lea County Regional</name>,"<city>Hobbs</city>, <state>NM</state>",<latitude>32.6875278</latitude>,<longitude>-103.2170278</longitude>
+<shortcode>PVU</shortcode>,<name>Provo Municipal</name>,"<city>Provo</city>, <state>UT</state>",<latitude>40.21935</latitude>,<longitude>-111.71828</longitude>
+<shortcode>BMG</shortcode>,<name>Monroe County Airport</name>,"<city>Bloomington</city>, <state>IN</state>",<latitude>39.1460208</latitude>,<longitude>-86.6166805</longitude>
+<shortcode>SCE</shortcode>,<name>State College Airport</name>,"<city>State College</city>, <state>PA</state>",<latitude>40.8492778</latitude>,<longitude>-77.8486944</longitude>
+<shortcode>TCL</shortcode>,<name>Tuscaloosa Regional</name>,"<city>Tuscaloosa</city>, <state>AL</state>",<latitude>33.2189</latitude>,<longitude>-87.6064</longitude>
+<shortcode>BBG</shortcode>,<name>Branson Airport</name>,"<city>Branson</city>, <state>MO</state>",<latitude>36.5392</latitude>,<longitude>-93.1989</longitude>
+<shortcode>GCN</shortcode>,<name>Grand Canyon National Park</name>,"<city>Tusayan</city>, <state>AZ</state>",<latitude>35.95939</latitude>,<longitude>-112.13357</longitude>
+<shortcode>VQS</shortcode>,<name>Antonio Rivera Rodriquez Airport</name>,"<city>Vieques</city>, <state>PR</state>",<latitude>18.134089</latitude>,<longitude>-65.48803</longitude>
+<shortcode>OGD</shortcode>,<name>Ogden Hinckley</name>,"<city>Ogden</city>, <state>UT</state>",<latitude>41.193349</latitude>,<longitude>-112.009138</longitude>
+<shortcode>JQF</shortcode>,<name>Concord Regional Airport</name>,"<city>Concord</city>, <state>NC</state>",<latitude>35.38587</latitude>,<longitude>-80.71409</longitude>
+<shortcode>MPB</shortcode>,<name>Miami Seaplane Base</name>,"<city>Miami</city>, <state>FL</state>",<latitude>25.7833583</latitude>,<longitude>-80.1796066</longitude>
+<shortcode>VRB</shortcode>,<name>Vero Beach Airport</name>,"<city>Vero Beach in Indian River County</city>, <state>FL</state>",<latitude>27.6556</latitude>,<longitude>80.4179</longitude>
