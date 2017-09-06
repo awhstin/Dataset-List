@@ -16,4 +16,4 @@ I want to store some of my favorite data sets here.
 
 + Bike share data (Divvy, Citibike etc) via ROpenSci/[bikedata](https://github.com/ropensci/bikedata)
 + Bureau of Labor Statistics [Databases, Tables & Calculators](https://www.bls.gov/data/)
-+ NYT Cost of Hurricane Harvey viz background [data]('https://static01.nyt.com/newsgraphics/2017/08/29/expensive-storms/79088630ae1af934d7840e104a0e3f1e8a6c7bf1/data-2.tsv')
++ NYT Cost of Hurricane Harvey viz background [data]('https://static01.nyt.com/newsgraphics/2017/08/29/expensive-storms/')
