@@ -18,3 +18,4 @@ I want to store some of my favorite data sets here.
 + Bureau of Labor Statistics [Databases, Tables & Calculators](https://www.bls.gov/data/)
 + NYT [Cost of Hurricane Harvey](https://www.nytimes.com/interactive/2017/09/01/upshot/cost-of-hurricane-harvey-only-one-storm-comes-close.html?mcubz=1) viz background [data](https://static01.nyt.com/newsgraphics/2017/08/29/expensive-storms/79088630ae1af934d7840e104a0e3f1e8a6c7bf1/data-2.tsv)
 + Observatory of Economic Complexity [API](http://atlas.media.mit.edu/api/)
+  + Tutorial on calling the API and visualizing using streamgraphs [here](http://austinwehrwein.com/tutorials/streams/)
