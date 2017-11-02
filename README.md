@@ -21,3 +21,4 @@ I want to store some of my favorite data sets here.
   + Tutorial on calling the API and visualizing using streamgraphs [here](http://austinwehrwein.com/tutorials/streams/)
 + Confederate monuments data from [Southern Poverty Law Center](https://splcenter.carto.com/tables/confederate_symbols/public) found in this repo. \
 ![Alt text](https://github.com/awhstin/Dataset-List/blob/master/states.png "States with Confederate monuments")
++ Bechdel test data and [API documentation](http://bechdeltest.com/api/v1/doc) and example of use from this article, [Men, women and films](https://www.1843magazine.com/data-graphic/what-the-numbers-say/men-women-and-films)
