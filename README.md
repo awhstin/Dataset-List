@@ -25,3 +25,4 @@ I store some of my favorite data sets here as well as those I want to use later.
 + FEMA National Flood Insurance Program [data](https://www.fema.gov/statistics-calendar-year0) by Calendar Year
 + [3 Million Instacart Orders](https://www.instacart.com/datasets/grocery-shopping-2017)
 + Debt in America data from [Debt Interactive Map](https://apps.urban.org/features/debt-interactive-map/) located in this repo.
++ [Gun Violence Reports](http://www.gunviolencearchive.org/reports) from the Gun Violence Archive
