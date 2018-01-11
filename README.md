@@ -1,4 +1,4 @@
-# dataSet-List
+# Dataset-List
 I store some of my favorite data sets here as well as those I want to use later. 
 
 ## Datasets
