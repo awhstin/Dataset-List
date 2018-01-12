@@ -27,3 +27,4 @@ I store some of my favorite data sets here as well as those I want to use later.
 + Debt in America data from [Debt Interactive Map](https://apps.urban.org/features/debt-interactive-map/) located in this repo.
 + [Gun Violence Reports](http://www.gunviolencearchive.org/reports) from the Gun Violence Archive
 + Firefighter fatalities in the US, [data](https://www.kaggle.com/fema/firefighter-fatalities) from Kaggle.
++ Top 500 passwords from [Information is Beautiful](https://informationisbeautiful.net/visualizations/top-500-passwords-visualized/), [data](http://bit.ly/KIB_PopularPasswords)
