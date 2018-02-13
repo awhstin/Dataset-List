@@ -30,3 +30,4 @@ I store some of my favorite data sets here as well as those I want to use later.
 + Top 500 passwords from [Information is Beautiful](https://informationisbeautiful.net/visualizations/top-500-passwords-visualized/), [data](http://bit.ly/KIB_PopularPasswords)
 + Cook County Medical Examiner Case Archive - [Data Lens](https://datacatalog.cookcountyil.gov/Public-Safety/Medical-Examiner-Case-Archive/cjeq-bs86)
 + Homeless arrests [github](https://github.com/datadesk/homeless-arrests-analysis)
++ R Socrata Chicago Open Data [API](https://github.com/Chicago/RSocrata)
