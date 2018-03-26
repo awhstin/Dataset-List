@@ -23,7 +23,6 @@ I store some of my favorite data sets here as well as those I want to use later.
 ![Alt text](https://github.com/awhstin/Dataset-List/blob/master/states.png "States with Confederate monuments")
 + Bechdel test data and [API documentation](http://bechdeltest.com/api/v1/doc) and example of use from this article, [Men, women and films](https://www.1843magazine.com/data-graphic/what-the-numbers-say/men-women-and-films)
 + FEMA National Flood Insurance Program [data](https://www.fema.gov/statistics-calendar-year0) by Calendar Year
-+ [3 Million Instacart Orders](https://www.instacart.com/datasets/grocery-shopping-2017)
 + Debt in America data from [Debt Interactive Map](https://apps.urban.org/features/debt-interactive-map/) located in this repo.
 + [Gun Violence Reports](http://www.gunviolencearchive.org/reports) from the Gun Violence Archive
 + Firefighter fatalities in the US, [data](https://www.kaggle.com/fema/firefighter-fatalities) from Kaggle.
