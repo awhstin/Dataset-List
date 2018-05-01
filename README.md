@@ -32,3 +32,4 @@ I store some of my favorite data sets here as well as those I want to use later.
 + R Socrata Chicago Open Data [API](https://github.com/Chicago/RSocrata)
 + Zillow Home Values [Data](https://www.zillow.com/research/data/)
 + Global video games sales [data](https://data.world/julienf/video-games-global-sales-in-volume-1983-2017)
++ Institute for Health Metrics and Evaluation [data](http://www.healthdata.org/data-tools)
