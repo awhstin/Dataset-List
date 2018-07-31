@@ -33,3 +33,4 @@ I store some of my favorite data sets here as well as those I want to use later.
 + Zillow Home Values [Data](https://www.zillow.com/research/data/)
 + Global video games sales [data](https://data.world/julienf/video-games-global-sales-in-volume-1983-2017)
 + Institute for Health Metrics and Evaluation [data](http://ghdx.healthdata.org/us-data)
++ Sampled speeches from The History Place - [Great Speeches](http://www.historyplace.com/speeches/previous.htm)
