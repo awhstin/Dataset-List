@@ -1,18 +1,18 @@
 name,color
-Manchester City,#6caddf
+Man City,#6caddf
 Liverpool,#c31315
 Chelsea,#132257
 Tottenham Hotspur,#034694
 Arsenal,#ff2400
 Everton,#274488
-Manchester United,#ef0107
+Man United,#ef0107
 AFC Bournemouth,#e80909
-Leicester City,#0053a0
-Brighton & Hove Albion,#005daa
+Leicester,#0053a0
+Brighton,#005daa
 Watford,#fbee23
-Wolverhampton Wanderers,#fdb913
-West Ham United,#7c2c3b
-Newcastle United,#000000
+Wolves,#fdb913
+West Ham,#7c2c3b
+Newcastle,#000000
 Crystal Palace,#0a4af5
 Cardiff City,#224781
 Huddersfield Town,#192552
@@ -24,3 +24,5 @@ Sheffield United,#fcee23
 Aston Villa,#670e36
 Middlesbrough,#e11b22
 Leeds United,#FFCD00
+West Brom, #003366
+
